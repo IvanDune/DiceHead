@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "bdf322b7c18be0cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ea9704633ba8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816d8cfba61b9b7d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Игры/Spire/Весна сменяет лето/Сеть.canvas",
+                "viewState": {
+                  "x": 119.08266136697665,
+                  "y": 74.83934019067782,
+                  "zoom": -1.6973049784451721
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Сеть"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d3a4c71f89220f",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ac953733264a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ef1c0e835dc3ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "59bb0f8fd37c688e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "73bffe0aa40ce46a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3baddd0f91d3dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "292c052f5e4d95a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14db693190dfe07a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Игры/Spire/Весна сменяет лето/Сеть.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Сеть"
+            }
+          },
+          {
+            "id": "387c470066ff3341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Игры/Spire/Весна сменяет лето/Сеть.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Сеть"
+            }
+          },
+          {
+            "id": "5b9f8e45e216703c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "190d02678a2cdcbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Игры/Spire/Весна сменяет лето/Сеть.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сеть"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "816d8cfba61b9b7d",
+  "lastOpenFiles": [
+    "Игры/Spire/Весна сменяет лето/Вехи/Культ Бартоломеи/Продвижение культа.md",
+    "Игры/Spire/Весна сменяет лето/Сеть.canvas",
+    "Игры/Spire/Весна сменяет лето/Вехи/Проект Лазарь/Первые убийства.md",
+    "Игры/Spire/Весна сменяет лето/Вехи/Действия Вейрона/Покупка завода SF-014.md",
+    "Игры/Spire/Весна сменяет лето/Вехи/Действия Вейрона/Основание Лазаря.md",
+    "Игры/Spire/Весна сменяет лето/Вехи/Культ Бартоломеи/Убийство жрицы.md",
+    "Игры/Spire/Весна сменяет лето/Вехи/Действия Вейрона",
+    "Игры/Spire/Весна сменяет лето/Вехи/Культ Бартоломеи",
+    "Игры/Spire/Весна сменяет лето/Вехи/Проект Лазарь",
+    "Игры/Spire/Весна сменяет лето/Вехи",
+    "Игры/Spire/Весна сменяет лето/Личности/Вейрон 'Белая Прядь' Фрост.md",
+    "Игры/Spire/Весна сменяет лето/Личности/_Врач-хирург.md",
+    "Игры/Spire/Весна сменяет лето/Сообщества и фирмы/Гвинн-Энфорр.md",
+    "Игры/Spire/Весна сменяет лето/Личности/Феликс Браунмист.md",
+    "Игры/Spire/Весна сменяет лето/Личности/_Наемник.md",
+    "Игры/Spire/Весна сменяет лето/Информация/Проект 'Лазарь'.md",
+    "Игры/Spire/Весна сменяет лето/Сообщества и фирмы/Курьеры.md",
+    "Игры/Spire/Весна сменяет лето/Сообщества и фирмы",
+    "Игры/Spire/Весна сменяет лето/Личности/Ванесса Штольц.md",
+    "Игры/Spire/Весна сменяет лето/Личности/Люпен 'Снежная Кость'.md",
+    "Игры/Spire/Весна сменяет лето/Информация",
+    "Игры/Spire/Весна сменяет лето/Личности/Бартоломея 'Танцующая с Куклами' Фрост.md",
+    "Игры/Spire/Весна сменяет лето/Личности/Джерольд Варген.md",
+    "Игры/Spire/Весна сменяет лето/Информация.md",
+    "Игры/Spire/Весна сменяет лето/Места",
+    "Лекции/Классификация НРИ. Почему я перестал играть в D&D.md",
+    "Игры/Spire/Весна сменяет лето/Личности",
+    "Игры/Spire/Весна сменяет лето",
+    "Игры/Spire",
+    "Игры/Trail of Cthulhu/Peace Water Supply.md",
+    "Игры/Тэтраэдр/Игра.md",
+    "Игры/Pirate Borg/Шляпа и Ацтеки.md",
+    "Доп. инфа/Волчьи цитаты.md",
+    "Игры/Модули для Foundry VTT.md",
+    "Игры/Квакающая угроза.md",
+    "Игры/Идеи для квестов.md"
+  ]
+}
