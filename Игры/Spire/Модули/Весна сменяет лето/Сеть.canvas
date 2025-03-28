@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"3d8381a2ed9dc053","type":"group","x":-1760,"y":-120,"width":3960,"height":1467,"label":"Личности и переплетения"},
+		{"id":"44f90af637eff249","type":"group","x":-560,"y":-780,"width":1720,"height":480,"label":"Сюжет и зацепки"},
+		{"id":"cf0ce6d10926b9ca","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Вейрон 'Белая Прядь' Фрост.md","x":0,"y":0,"width":400,"height":200,"color":"2"},
+		{"id":"cc329af32d64bad1","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Бартоломея 'Танцующая с Куклами' Фрост.md","x":800,"y":0,"width":456,"height":200,"color":"2"},
+		{"id":"2c5d32c30c94c2a1","type":"text","text":"Пропавший журналист из 'Факел' имеет информацию о странностях с заброшенным пансионом","x":-85,"y":-480,"width":345,"height":160},
+		{"id":"def96e5c5e0e3e31","type":"text","text":"Завод SF-014\n\nСокращение всего штата, который не находится в Служении","x":-540,"y":-480,"width":320,"height":160},
+		{"id":"697f8020c3fafd3b","type":"text","text":"Жестокое убийство жрицы церкви Сестры Весны","x":380,"y":-480,"width":280,"height":160},
+		{"id":"bb879e5465352783","type":"text","text":"Странное убийство проститутки в Красном Квартале","x":860,"y":-760,"width":250,"height":160},
+		{"id":"b5b7969c9cfb7469","type":"text","text":"Сместить Вейрона, поставить на его место дочь, Бартоломею.\n\nВейрон плохо влияет на дроу0общество","x":-140,"y":-760,"width":360,"height":160},
+		{"id":"1d98e9d6796b5a46","type":"text","text":"## Проект \"Лазарь\"\nУлучшение положения населения нижнего шпиля. Увеличение рабочей силы и притока свежей еды.","x":-840,"y":0,"width":397,"height":200,"color":"6"},
+		{"id":"9befdcff0e72a30f","type":"text","text":"Выступление Бартоломеи 'Танцующая с Куклами' на званом ужине","x":860,"y":-480,"width":280,"height":160},
+		{"id":"5039f83452c632b4","type":"text","text":"МИНИСТЕРСТВО","x":-335,"y":480,"width":250,"height":60,"color":"1"},
+		{"id":"2462a1d2813b7fa8","type":"text","text":"## Гробовщики\nДоставляли тела до садов, собирали украшения и органы, закапывали для плодородной почвы","x":-625,"y":626,"width":383,"height":94,"color":"2"},
+		{"id":"d75c5522babd1fc9","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Джерольд Варген.md","x":0,"y":760,"width":400,"height":161,"color":"2"},
+		{"id":"d9779fb6a088a1ce","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Джаран.md","x":-1000,"y":760,"width":400,"height":87,"color":"2"},
+		{"id":"6ea5f5e51470b3e5","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Феликс Браунмист.md","x":860,"y":767,"width":400,"height":161,"color":"2"},
+		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Ванесса Штольц.md","x":-1400,"y":480,"width":400,"height":176,"color":"2"},
+		{"id":"af5d5634110ae1c9","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Люпен 'Снежная Кость'.md","x":-1720,"y":0,"width":400,"height":200,"color":"2"},
+		{"id":"3f0b9049d7529b5e","x":1600,"y":450,"width":250,"height":60,"color":"1","type":"text","text":"Гвинн-Энфорр"}
+	],
+	"edges":[
+		{"id":"b1a34293375b843e","fromNode":"cf0ce6d10926b9ca","fromSide":"right","toNode":"cc329af32d64bad1","toSide":"left","fromEnd":"arrow","color":"#ffffff","label":"Родственники"},
+		{"id":"5a5737d5e794da94","fromNode":"cf0ce6d10926b9ca","fromSide":"bottom","toNode":"d75c5522babd1fc9","toSide":"top","color":"2","label":"Начальник"},
+		{"id":"6c3ccff1d8a80ea9","fromNode":"cf0ce6d10926b9ca","fromSide":"bottom","toNode":"6ea5f5e51470b3e5","toSide":"top","color":"2","label":"Начальник"},
+		{"id":"f9bad0d41e9a237b","fromNode":"6ea5f5e51470b3e5","fromSide":"top","toNode":"cc329af32d64bad1","toSide":"bottom","color":"5","label":"Служит"},
+		{"id":"05f79d7c3e85e448","fromNode":"d75c5522babd1fc9","fromSide":"right","toNode":"6ea5f5e51470b3e5","toSide":"left","color":"1","label":"Подозревает"},
+		{"id":"4b80382a68840d67","fromNode":"af5d5634110ae1c9","fromSide":"right","toNode":"1d98e9d6796b5a46","toSide":"left","color":"4","label":"Основатель"},
+		{"id":"18e4eb70a114f90a","fromNode":"cf0ce6d10926b9ca","fromSide":"left","toNode":"1d98e9d6796b5a46","toSide":"right","color":"4","label":"Основатель"},
+		{"id":"63d219ff973aaeec","fromNode":"af5d5634110ae1c9","fromSide":"bottom","toNode":"d6996254c8c7aa7e","toSide":"top","color":"2","label":"Начальник"},
+		{"id":"fa1b7795ff643216","fromNode":"b5b7969c9cfb7469","fromSide":"bottom","toNode":"def96e5c5e0e3e31","toSide":"top"},
+		{"id":"18713d9e2914adf9","fromNode":"b5b7969c9cfb7469","fromSide":"bottom","toNode":"2c5d32c30c94c2a1","toSide":"top"},
+		{"id":"1aa01db5a41c50f9","fromNode":"b5b7969c9cfb7469","fromSide":"bottom","toNode":"697f8020c3fafd3b","toSide":"top"},
+		{"id":"19805cc97725eb2e","fromNode":"5039f83452c632b4","fromSide":"top","toNode":"1d98e9d6796b5a46","toSide":"right","color":"4","label":"Спонсор"},
+		{"id":"be0950416ac39f1a","fromNode":"1d98e9d6796b5a46","fromSide":"bottom","toNode":"d6996254c8c7aa7e","toSide":"top","color":"6","label":"Участник"},
+		{"id":"8c4c6ffb03398a3d","fromNode":"1d98e9d6796b5a46","fromSide":"bottom","toNode":"d9779fb6a088a1ce","toSide":"top","color":"6","label":"Участник"},
+		{"id":"cc1bf682c7bea5db","fromNode":"1d98e9d6796b5a46","fromSide":"bottom","toNode":"2462a1d2813b7fa8","toSide":"top","color":"6","label":"Участник"},
+		{"id":"c8e9f62a03937990","fromNode":"3f0b9049d7529b5e","fromSide":"left","toNode":"cc329af32d64bad1","toSide":"right","color":"4","label":"Влияет"},
+		{"id":"2a8fc602518ff1cb","fromNode":"3f0b9049d7529b5e","fromSide":"left","toNode":"6ea5f5e51470b3e5","toSide":"right","color":"4","label":"Влияет"}
+	]
+}
