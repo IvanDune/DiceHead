@@ -14,7 +14,7 @@
 		{"id":"8eafbb521ac56af6","type":"text","text":"Бесконечная война","x":-300,"y":560,"width":250,"height":60},
 		{"id":"373bc8c9f711f0c7","type":"text","text":"Квартира","x":-520,"y":220,"width":250,"height":60,"color":"2"},
 		{"id":"7ceed2a8141eeb37","type":"text","text":"Озеро уныния","x":-140,"y":220,"width":250,"height":60,"color":"2"},
-		{"id":"9b5b4200c08911e1","x":-980,"y":220,"width":250,"height":60,"type":"text","text":"Храм Силы"}
+		{"id":"9b5b4200c08911e1","type":"text","text":"Храм Силы","x":-980,"y":220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5c335d7d747db2fe","fromNode":"35cdfda1b2c80642","fromSide":"right","toNode":"88cca225f0b4c98c","toSide":"left","label":"Падение зверя"},
@@ -25,9 +25,8 @@
 		{"id":"e0ad88e74be9a646","fromNode":"1d578b4eb55a5108","fromSide":"left","toNode":"3ddea87454b6a55e","toSide":"right","label":"Жало в воде"},
 		{"id":"e47202d77dc64915","fromNode":"3ddea87454b6a55e","fromSide":"bottom","toNode":"7ceed2a8141eeb37","toSide":"top"},
 		{"id":"d0948ad29845d869","fromNode":"bdc5ef58306a3593","fromSide":"bottom","toNode":"7ceed2a8141eeb37","toSide":"top","label":"Колодец"},
-		{"id":"aae545577c67fb5e","fromNode":"ef6a7fb63a4b29aa","fromSide":"bottom","toNode":"8eafbb521ac56af6","toSide":"top"},
-		{"id":"629cf02e3c46aff2","fromNode":"8eafbb521ac56af6","fromSide":"bottom","toNode":"436638ec6a027227","toSide":"top","label":"Спина Фенрира"},
-		{"id":"006b421b6069eba2","fromNode":"436638ec6a027227","fromSide":"left","toNode":"ef6a7fb63a4b29aa","toSide":"bottom"},
+		{"id":"aae545577c67fb5e","fromNode":"ef6a7fb63a4b29aa","fromSide":"bottom","toNode":"8eafbb521ac56af6","toSide":"top","label":"Спина Фенрира"},
+		{"id":"629cf02e3c46aff2","fromNode":"8eafbb521ac56af6","fromSide":"bottom","toNode":"436638ec6a027227","toSide":"top"},
 		{"id":"b63fc385955d050b","fromNode":"373bc8c9f711f0c7","fromSide":"bottom","toNode":"ef6a7fb63a4b29aa","toSide":"top"}
 	]
 }
