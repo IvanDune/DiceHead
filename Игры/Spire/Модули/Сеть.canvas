@@ -3,15 +3,16 @@
 		{"id":"3d8381a2ed9dc053","type":"group","x":-2880,"y":-120,"width":5520,"height":2000,"label":"Личности и переплетения"},
 		{"id":"ee40291f63a2ca69","type":"group","x":-560,"y":520,"width":2950,"height":1261,"color":"3","label":"Весна сменяет лето"},
 		{"id":"a2fceb38a9c19baf","type":"group","x":-2360,"y":1235,"width":1675,"height":546,"color":"3","label":"Лазарь"},
-		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Ванесса Штольц.md","x":-2340,"y":1576,"width":400,"height":176,"color":"2"},
 		{"id":"d9779fb6a088a1ce","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Джаран.md","x":-1840,"y":1665,"width":400,"height":87,"color":"2"},
 		{"id":"2462a1d2813b7fa8","type":"text","text":"## Гробовщики\nДоставляли тела до садов, собирали украшения и органы, закапывали для плодородной почвы","x":-1400,"y":1658,"width":383,"height":94,"color":"2"},
-		{"id":"5039f83452c632b4","type":"text","text":"**МАДЖЕ ФАМЕ**","x":-960,"y":1692,"width":250,"height":60,"color":"1"},
 		{"id":"af5d5634110ae1c9","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Люпен 'Снежная Кость'.md","x":-2340,"y":1255,"width":400,"height":200,"color":"2"},
 		{"id":"1d98e9d6796b5a46","type":"text","text":"## Проект \"Лазарь\"\nУлучшение положения населения нижнего шпиля. Увеличение рабочей силы и притока свежей еды.","x":-1460,"y":1255,"width":397,"height":200,"color":"6"},
 		{"id":"061b841959a65f8a","type":"text","text":"### Криут (Эрика)","x":-450,"y":1675,"width":250,"height":60,"color":"3"},
-		{"id":"117e1222bf1bcf4a","type":"text","text":"## Синие плуты","x":-450,"y":1475,"width":250,"height":50,"color":"2"},
 		{"id":"40831813cdecb05d","type":"text","text":"### Релфир \"Грач\" Фавидок (Антон)","x":-480,"y":1307,"width":310,"height":75,"color":"3"},
+		{"id":"5abcd1266de9c421","type":"text","text":"### Гралай Создатель цепей (НИК)","x":1051,"y":560,"width":425,"height":54,"color":"3"},
+		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Ванесса Штольц.md","x":-2340,"y":1576,"width":400,"height":176,"color":"2"},
+		{"id":"5039f83452c632b4","type":"text","text":"**МАДЖЕ ФАМЕ**","x":-960,"y":1692,"width":250,"height":60,"color":"1"},
+		{"id":"117e1222bf1bcf4a","type":"text","text":"## Синие плуты","x":-450,"y":1475,"width":250,"height":50,"color":"2"},
 		{"id":"90062283dd772bad","type":"text","text":"## Завод SF-014","x":-60,"y":1465,"width":250,"height":60,"color":"6"},
 		{"id":"d75c5522babd1fc9","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Джерольд Варген.md","x":251,"y":1640,"width":400,"height":95,"color":"2"},
 		{"id":"8417dd80dc42f486","type":"text","text":"## Ресторан Миртвуд","x":651,"y":1465,"width":300,"height":60,"color":"6"},
@@ -25,8 +26,7 @@
 		{"id":"3f0b9049d7529b5e","type":"text","text":"## Гвинн-Энфорр","x":2073,"y":640,"width":250,"height":60,"color":"1"},
 		{"id":"9035698124d77567","type":"text","text":"### Профессор Аркрайт (Тимур)","x":2054,"y":850,"width":288,"height":120,"color":"3"},
 		{"id":"cc329af32d64bad1","type":"file","file":"Игры/Spire/Модули/Весна сменяет лето/Личности/Бартоломея 'Танцующая с Куклами' Фрост.md","x":1465,"y":750,"width":456,"height":200,"color":"2"},
-		{"id":"b4515eb9d74bb594","type":"text","text":"## Закрытая вечеринка","x":1100,"y":660,"width":326,"height":57,"color":"6"},
-		{"id":"5abcd1266de9c421","type":"text","text":"### Гралай Создатель цепей (НИК)","x":1051,"y":560,"width":425,"height":54,"color":"3"}
+		{"id":"b4515eb9d74bb594","type":"text","text":"## Закрытая вечеринка","x":1100,"y":660,"width":326,"height":57,"color":"6"}
 	],
 	"edges":[
 		{"id":"b1a34293375b843e","fromNode":"cf0ce6d10926b9ca","fromSide":"top","toNode":"cc329af32d64bad1","toSide":"left","fromEnd":"arrow","color":"#ffffff","label":"Родственники"},
@@ -60,5 +60,9 @@
 		{"id":"af1a29fb9daaf800","fromNode":"90062283dd772bad","fromSide":"bottom","toNode":"061b841959a65f8a","toSide":"top","color":"3","label":"Работает"},
 		{"id":"d8f1cfa1d3966c51","fromNode":"117e1222bf1bcf4a","fromSide":"right","toNode":"90062283dd772bad","toSide":"left","color":"1","label":"Воруют"},
 		{"id":"aa5d1a675e2edb38","fromNode":"40831813cdecb05d","fromSide":"bottom","toNode":"117e1222bf1bcf4a","toSide":"top","color":"3","label":"Знает"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"2358d4d1c73424d4","type":"group","x":-380,"y":-800,"width":1860,"height":960,"color":"3","label":"Дисмас ван Брант"},
+		{"id":"e2c918caac936c58","type":"group","x":-195,"y":640,"width":1490,"height":540,"color":"#45b7e8","label":"Видящие"},
+		{"id":"aece05dd603174d1","type":"file","file":"ДЛЯ МАСТЕРА/Игроки/Антон/Заговор/Дейдра вон Брант.md","x":300,"y":-700,"width":400,"height":120},
+		{"id":"3e65f52e7d35b3f2","type":"text","text":"Нефарани","x":-175,"y":980,"width":250,"height":60},
+		{"id":"33dc1614af26496e","type":"text","text":"","x":1025,"y":980,"width":250,"height":60},
+		{"id":"43e9f215e63d102b","type":"text","text":"","x":725,"y":980,"width":250,"height":60},
+		{"id":"ff3d8555bf9614f0","type":"text","text":"","x":125,"y":980,"width":250,"height":60},
+		{"id":"54ce7b3d779fad52","type":"text","text":"Лука приист","x":425,"y":1100,"width":250,"height":60},
+		{"id":"05013d3817c9f93e","type":"file","file":"ДЛЯ МАСТЕРА/Игроки/Антон/Заговор/Ярук Сталерожденный.md","x":300,"y":-420,"width":400,"height":140},
+		{"id":"200ebafa5d79175d","type":"text","text":"Граффад","x":125,"y":820,"width":250,"height":60},
+		{"id":"e13eb5a8d9ee9762","type":"text","text":"Пеонио Стеклянный","x":425,"y":820,"width":250,"height":60},
+		{"id":"d2520084aef116b4","type":"text","text":"Гризельда ","x":725,"y":820,"width":250,"height":60},
+		{"id":"1dabf8fbe0fed2d8","type":"text","text":"Виктор Следопыт","x":425,"y":660,"width":250,"height":60},
+		{"id":"bcdc04e8fe071625","type":"file","file":"ДЛЯ МАСТЕРА/Игроки/Антон/Заговор/Уллана Сизая.md","x":-360,"y":0,"width":400,"height":140},
+		{"id":"c1332450c785a026","type":"file","file":"ДЛЯ МАСТЕРА/Игроки/Антон/Заговор/Веснек Черный.md","x":920,"y":0,"width":400,"height":140},
+		{"id":"169c2553b7d91164","type":"file","file":"ДЛЯ МАСТЕРА/Игроки/Антон/Заговор/Беллинус Граффад.md","x":300,"y":0,"width":400,"height":140}
+	],
+	"edges":[
+		{"id":"9ef72eb410f480d2","fromNode":"05013d3817c9f93e","fromSide":"bottom","toNode":"bcdc04e8fe071625","toSide":"top"},
+		{"id":"b9d54115cc1416bd","fromNode":"05013d3817c9f93e","fromSide":"bottom","toNode":"c1332450c785a026","toSide":"top"},
+		{"id":"67b15d1ce1b63034","fromNode":"05013d3817c9f93e","fromSide":"bottom","toNode":"169c2553b7d91164","toSide":"top"},
+		{"id":"a21bd7ee46ddd9f4","fromNode":"aece05dd603174d1","fromSide":"bottom","toNode":"05013d3817c9f93e","toSide":"top"},
+		{"id":"eb5361b948409082","fromNode":"1dabf8fbe0fed2d8","fromSide":"bottom","toNode":"200ebafa5d79175d","toSide":"top"},
+		{"id":"28f4f42448e4a6eb","fromNode":"1dabf8fbe0fed2d8","fromSide":"bottom","toNode":"e13eb5a8d9ee9762","toSide":"top"},
+		{"id":"1abfe442b1a965fb","fromNode":"1dabf8fbe0fed2d8","fromSide":"bottom","toNode":"d2520084aef116b4","toSide":"top"},
+		{"id":"7e12bc31c2e4e83b","fromNode":"200ebafa5d79175d","fromSide":"bottom","toNode":"3e65f52e7d35b3f2","toSide":"top"},
+		{"id":"c470415d89f8824e","fromNode":"200ebafa5d79175d","fromSide":"bottom","toNode":"ff3d8555bf9614f0","toSide":"top"},
+		{"id":"e4dfdef9bbe27e81","fromNode":"e13eb5a8d9ee9762","fromSide":"bottom","toNode":"54ce7b3d779fad52","toSide":"top"},
+		{"id":"66aa670cece24e6a","fromNode":"d2520084aef116b4","fromSide":"bottom","toNode":"43e9f215e63d102b","toSide":"top"},
+		{"id":"7b61d8eec483bc0b","fromNode":"d2520084aef116b4","fromSide":"bottom","toNode":"33dc1614af26496e","toSide":"top"},
+		{"id":"913f03b0d21c6a7f","fromNode":"200ebafa5d79175d","fromSide":"top","toNode":"169c2553b7d91164","toSide":"bottom","color":"5"}
+	]
+}
