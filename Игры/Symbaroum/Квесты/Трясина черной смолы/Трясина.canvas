@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a5bc16a7cbc288fd","type":"group","x":470,"y":-900,"width":680,"height":340,"label":"Бестиалы"},
+		{"id":"51f74ee613d99ab0","type":"group","x":-500,"y":320,"width":645,"height":240,"label":"Живущие в трясине"},
+		{"id":"31b50578c7a2dbc7","type":"group","x":-492,"y":-380,"width":630,"height":220,"label":"Ковен Скрипучего Вяза"},
+		{"id":"9f47071df78b4307","type":"group","x":280,"y":20,"width":930,"height":100,"label":"Носители панциря"},
+		{"id":"6208f3a9b161ff2d","type":"text","text":"Царь Болот","x":-305,"y":340,"width":250,"height":60},
+		{"id":"b632311263e4303a","type":"text","text":"Агвид Молотильщик","x":-480,"y":480,"width":250,"height":60},
+		{"id":"b34d48848aa9a82c","type":"text","text":"Двухглавый Торольв","x":-125,"y":480,"width":250,"height":60},
+		{"id":"65a98ff3c89b6208","type":"text","text":"Галена Шелест-Сухого-Куста","x":-472,"y":-360,"width":250,"height":60},
+		{"id":"0ff47c94c666beb6","type":"text","text":"Брауни Заячья Лапка","x":-307,"y":-240,"width":250,"height":60},
+		{"id":"e093b5afc2f4cfe6","type":"text","text":"Вальдем Шепот-Старого-Волка","x":-132,"y":-360,"width":250,"height":60},
+		{"id":"18f4737ef0549d9c","type":"text","text":"","x":490,"y":-640,"width":250,"height":60},
+		{"id":"45d20fe6a1fb1243","type":"text","text":"","x":880,"y":-700,"width":250,"height":60},
+		{"id":"40ea2aadf2455cb5","type":"text","text":"Семуэль (Паук)","x":490,"y":-760,"width":250,"height":60},
+		{"id":"62b000e58e3a9819","type":"text","text":"","x":880,"y":-820,"width":250,"height":60},
+		{"id":"faab883e7a31598c","type":"text","text":"Винан Юдин (Крыса)","x":490,"y":-880,"width":250,"height":60},
+		{"id":"8666d8aaea43028d","type":"text","text":"Чародейка Слизи Агнес","x":300,"y":40,"width":250,"height":60},
+		{"id":"d6a7a9a2816046d6","type":"text","text":"Большой Ом","x":620,"y":40,"width":250,"height":60},
+		{"id":"37ddaa39bc193dec","type":"text","text":"Тург'Халь","x":940,"y":40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a2e8eeaa5b6a324d","fromNode":"65a98ff3c89b6208","fromSide":"bottom","toNode":"0ff47c94c666beb6","toSide":"top"},
+		{"id":"bcada9893bba3ee7","fromNode":"e093b5afc2f4cfe6","fromSide":"bottom","toNode":"0ff47c94c666beb6","toSide":"top"},
+		{"id":"503e77d8c87d156e","fromNode":"6208f3a9b161ff2d","fromSide":"bottom","toNode":"b632311263e4303a","toSide":"top"},
+		{"id":"2f3dca32a3f6fc28","fromNode":"6208f3a9b161ff2d","fromSide":"bottom","toNode":"b34d48848aa9a82c","toSide":"top"},
+		{"id":"7cc723b06efb756c","fromNode":"e093b5afc2f4cfe6","fromSide":"right","toNode":"8666d8aaea43028d","toSide":"left"},
+		{"id":"af296a3f18b2e26a","fromNode":"b632311263e4303a","fromSide":"top","toNode":"0ff47c94c666beb6","toSide":"bottom"},
+		{"id":"18cecb6997e99477","fromNode":"d6a7a9a2816046d6","fromSide":"bottom","toNode":"b34d48848aa9a82c","toSide":"right"}
+	]
+}
