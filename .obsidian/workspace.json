@@ -11,23 +11,6 @@
             "id": "a1c169a7fd1cb0ff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игры/Heart/Карта.canvas",
-                "viewState": {
-                  "x": -399.00647229557296,
-                  "y": 148.9422083837992,
-                  "zoom": -0.6228399505283182
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Карта"
-            }
-          },
-          {
-            "id": "0760d402bda54a5c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Игры/Heart/Модули/Не детские сказки.md",
@@ -36,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Не детские сказки"
+            }
+          },
+          {
+            "id": "0760d402bda54a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Heart/Oneshot/Пульс Сердца.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пульс Сердца"
             }
           }
         ],
@@ -200,8 +197,11 @@
   },
   "active": "0760d402bda54a5c",
   "lastOpenFiles": [
-    "Игры/Heart/Карта.canvas",
+    "Игры/WFRP/Oneshot/Вторая кожа.md",
     "Игры/Heart/Модули/Не детские сказки.md",
+    "Игры/Heart/Карта.canvas",
+    "Игры/WFRP/Oneshot",
+    "Игры/WFRP",
     "Игры/Symbaroum/Квесты/Акт III/Записи по квесту.md",
     "Игры/Symbaroum/Квесты/Акт III/Концепт приключения.md",
     "[[.md",
@@ -229,13 +229,10 @@
     "DiceFest/Информация для обсуждения.md",
     "Игры/Spire/Модули/Весна сменяет лето/Персонажи.md",
     "Игры/Spire/Модули/Весна сменяет лето/Записи.md",
-    "Игры/Spire/Модули/Лазарь/Записи.md",
     "Игры/Spire/Модули/Мы всего лишь пешки",
     "Игры/Heart/Вечно Плачущий",
     "Подготовка",
     "DiceFest",
-    "Подкасты",
-    "Игры/Spire/Модули/Весна сменяет лето/Записи",
-    "Игры/Spire/Модули/Весна сменяет лето/Организации"
+    "Подкасты"
   ]
 }
