@@ -4,35 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5a41afa05af7ff",
+        "id": "33eab3ad72abb457",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c169a7fd1cb0ff",
+            "id": "e962e58603f7e524",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Модули/Не детские сказки.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Не детские сказки"
+              "title": "Новая вкладка"
             }
           },
           {
-            "id": "0760d402bda54a5c",
+            "id": "4ea76ba3df312a32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Oneshot/Пульс Сердца.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Пульс Сердца"
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -195,10 +187,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0760d402bda54a5c",
+  "active": "4ea76ba3df312a32",
   "lastOpenFiles": [
-    "Игры/WFRP/Oneshot/Вторая кожа.md",
     "Игры/Heart/Модули/Не детские сказки.md",
+    "Игры/Heart/Oneshot/Пульс Сердца.md",
+    "Игры/WFRP/Oneshot/Вторая кожа.md",
     "Игры/Heart/Карта.canvas",
     "Игры/WFRP/Oneshot",
     "Игры/WFRP",
@@ -215,7 +208,6 @@
     "Игры/Heart/Oneshot",
     "Игры/Heart/Записи/Записи - общие.md",
     "Игры/Heart/Записи",
-    "Игры/Heart/Oneshot/Пульс Сердца.md",
     "Игры/Квакающая угроза.md",
     "Подготовка/Работа.md",
     "Подготовка/Алгоритмы.md",
