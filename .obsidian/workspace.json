@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b966ebaa0c85f0d",
+        "id": "ac91476a4590d7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2cacf993e8924d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Видео/Шортсы/Знакомьтесь Дюна.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Знакомьтесь Дюна"
-            }
-          },
-          {
-            "id": "cce2f4051deba754",
+            "id": "e7da616e72548032",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +22,20 @@
             }
           },
           {
-            "id": "fe6d5642d45ff254",
+            "id": "9ecc52c34b817aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Модули/Вера превыше всего.md",
+                "file": "Видео/Шортсы/Знакомьтесь Дюна.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вера превыше всего"
+              "title": "Знакомьтесь Дюна"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
@@ -194,10 +180,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fe6d5642d45ff254",
+  "active": "e7da616e72548032",
   "lastOpenFiles": [
+    "Видео/Шортсы/Знакомьтесь Дюна.md",
     "Видео/Полный метр/Знакомьтесь Дюна.md",
+    "Проекты/Презентации/Проведение корпоративных игр.md",
+    "Видео/Монтаж.md",
+    "Видео/Шортсы/Текст.md",
+    "Видео/Шортсы/Идеи.md",
+    "Видео/Шортсы/Реклама фестиваля.md",
+    "Игры/Spire/Записи/Записи - вера превыше всего.md",
     "Игры/Spire/Модули/Вера превыше всего.md",
+    "Игры/WFRP/Модули/Проклятый том.md",
+    "Проекты/Петр.md",
+    "Проекты/Презентации",
     "Игры/Heart/Дополнительно/Карта.canvas",
     "Игры/Heart/Дополнительно/Идеи.md",
     "Игры/Heart/Дополнительно/Снаряжение.md",
@@ -207,14 +203,10 @@
     "Игры/Heart/Дополнительно/Правила.md",
     "Игры/Heart/Дополнительно/Подготовка.md",
     "Игры/Heart/Доработать.md",
-    "Проекты/Петр.md",
     "Игры/Spire/Модули/I. Весна сменяет лето.md",
     "Игры/Spire/Сеть.canvas",
     "Игры/Spire/Персонажи.md",
-    "Видео/Шортсы/Знакомьтесь Дюна.md",
     "Игры/WFRP/Oneshot/Вторая кожа.md",
-    "Игры/WFRP/Модули/Проклятый том.md",
-    "Видео/Монтаж.md",
     "Игры/WFRP/Модули",
     "Проекты/Dungeon Fest.md",
     "Дела.md",
@@ -222,10 +214,6 @@
     "Игры/WFRP/Записи.md",
     "Игры/Heart/Oneshot/Проклятый старый завод.md",
     "conflict-files-obsidian-git.md",
-    "Игры/Heart/Записи/Записи - общие.md",
-    "Игры/Spire/Ваншоты.md",
-    "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
-    "Игры/Trail of Cthulhu/Peace Water Supply.md",
     "Игры/WFRP/Oneshot",
     "Игры/WFRP",
     "Игры/Symbaroum/Тимур/Пепел/Джучи",
@@ -233,7 +221,6 @@
     "Игры/Symbaroum/Рави/Хельмина Морбан/Созвездия Давокара",
     "Игры/Symbaroum/Квесты/Трясина черной смолы/Трясина.canvas",
     "Игры/Symbaroum/Квесты/Секреты Давокара/Места",
-    "Игры/Symbaroum/Игроки/Антон/Записи Вольфгана",
     "Игры/Symbaroum/Связи.canvas",
     "Игры/Spire/Модули/Весна сменяет лето/Сеть.canvas",
     "Игры/Heart/Вечно Плачущий/Карта.canvas",
