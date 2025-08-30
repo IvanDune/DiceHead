@@ -1,0 +1,174 @@
+{
+  "workspaces": {
+    "Граф": {
+      "main": {
+        "id": "58e500c6873e1301",
+        "type": "split",
+        "children": [
+          {
+            "id": "be2f55268b3e13d3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5cc4223e8c10ee6",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Граф"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "80321ddb10483311",
+        "type": "split",
+        "children": [
+          {
+            "id": "0071203ca6d8fa5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4e9758b470afc02",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Файловый менеджер"
+                }
+              },
+              {
+                "id": "84f3f002c31dc009",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Каргхельм",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Поиск"
+                }
+              },
+              {
+                "id": "6af7fcb61862fbc0",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Закладки"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "0a85599b90a64660",
+        "type": "split",
+        "children": [
+          {
+            "id": "fdaea7e6c5172f3b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6510ba293a347170",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Обратные ссылки"
+                }
+              },
+              {
+                "id": "dcd52728de7f4c09",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Исходящие ссылки"
+                }
+              },
+              {
+                "id": "de72e5d561bd3eb4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Теги"
+                }
+              },
+              {
+                "id": "7d1a1136c1366326",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Без названия.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Структура Без названия"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "workspaces:Пространства": false
+        }
+      },
+      "active": "a4e9758b470afc02",
+      "mtime": "2025-06-25T13:42:19+03:00"
+    }
+  },
+  "active": "Граф"
+}
