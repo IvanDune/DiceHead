@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "58e500c6873e1301",
+    "type": "split",
+    "children": [
+      {
+        "id": "665f6a1c02a3af7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231a4d0e8f6a5943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гильдии/Псарня.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Псарня"
+            }
+          },
+          {
+            "id": "0466f0987f2c0d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бестиарий/Гуманоиды/Псарня.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Псарня"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80321ddb10483311",
+    "type": "split",
+    "children": [
+      {
+        "id": "0071203ca6d8fa5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4e9758b470afc02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "84f3f002c31dc009",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Полурослик",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6af7fcb61862fbc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "0a85599b90a64660",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaea7e6c5172f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6510ba293a347170",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "dcd52728de7f4c09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "de72e5d561bd3eb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7d1a1136c1366326",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "c749bb34acb29604",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1a6b69b82988",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 256
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 9,
+                    "month": 6,
+                    "year": 256
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_69c8abea4b18"
+                },
+                "id": "ID_499a0ab83a68",
+                "child": "ID_2b8a4b39dad8"
+              },
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "58e0d509858aafb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9fa96e272f74fc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_1a6b69b82988",
+                "id": "ID_2b8a4b39dad8",
+                "parent": "ID_499a0ab83a68"
+              },
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM_AGENDA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "231a4d0e8f6a5943",
+  "lastOpenFiles": [
+    "События/Квесты/Древнее знание - Выпуск 2.md",
+    "Бестиарий/Гуманоиды/Псарня.md",
+    "Гильдии/Псарня.md",
+    "Персонажи/Игроки/Флинт.md",
+    "Персонажи/Игроки/Сайриэль.md",
+    "Персонажи/Игроки/Эззелина Когноскерия.md",
+    "Текущие статьи.md",
+    "Персонажи/Игроки/Дварф.md",
+    "Персонажи/Игроки/Ло-Ка Смотрящий в Небо.md",
+    "Артефакты/Посох нестабильного колдовства.md",
+    "Без названия.canvas",
+    "Артефакты",
+    "События/Квесты/Дочь Кузнеца - Выпуск 1 (Не исправленно).md",
+    "Персонажи/НПС/Кузмол/Арнольд Кузмол.md",
+    "Персонажи/НПС/Грег Чесночок.md",
+    "Персонажи/НПС/Аледор.md",
+    "Вспомогательное/Шаблоны/Квест.md",
+    "Вспомогательное/Шаблоны/Страна.md",
+    "Вспомогательное/Шаблоны/Круги Хармана.md",
+    "Вспомогательное/Шаблоны/Город.md",
+    "Вспомогательное/Иконки/002.png",
+    "Вспомогательное/Иконки/001.png",
+    "Карты/Страны/Королевство Веллар.md",
+    "Карты/Точки интереса/Друидический совет.md",
+    "Карты/Точки интереса/Кузница Шлем ведьмы.md",
+    "Карты/Точки интереса/Трактир Заблудшая овца.md",
+    "Персонажи/НПС/Тодсон/Фин Тодсон.md",
+    "Карты/Точки интереса/Храм на болотах.md",
+    "Персонажи/НПС/Биркап/Барли Биркап.md",
+    "Персонажи/НПС/Кузмол/Элис Кузмол.md",
+    "Персонажи/НПС/Тодсон",
+    "Бестиарий/Гуманоиды",
+    "Персонажи/Умершие",
+    "Персонажи/НПС",
+    "Персонажи/Игроки",
+    "Гильдии",
+    "Вспомогательное",
+    "Вспомогательное/Иконки/005.png",
+    "Вспомогательное/Иконки/Звезда.png",
+    "Вспомогательное/Иконки/Предупреждение.png",
+    "Вспомогательное/Иконки/Вопрос.png",
+    "Вспомогательное/Иконки/Флаг.png",
+    "Вспомогательное/Иконки/Город.png",
+    "Вспомогательное/Иконки/Башня.png",
+    "Вспомогательное/Иконки/Саурон.png",
+    "Карты",
+    "FREE_global_map_icons/Web_site.url"
+  ]
+}

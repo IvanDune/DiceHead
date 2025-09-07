@@ -1,0 +1,395 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Мой Календарь",
+      "description": "",
+      "id": "ID_1a6b69b82988",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Понедельник",
+            "id": "ID_c9e8b8f9fb49",
+            "abbreviation": "ПН"
+          },
+          {
+            "type": "day",
+            "name": "Вторник",
+            "id": "ID_9a08c8cae8c9",
+            "abbreviation": "ВТ"
+          },
+          {
+            "type": "day",
+            "name": "Среда",
+            "id": "ID_8be8b9297be9",
+            "abbreviation": "СР"
+          },
+          {
+            "type": "day",
+            "name": "Четверг",
+            "id": "ID_6809f8796a1b",
+            "abbreviation": "ЧТ"
+          },
+          {
+            "type": "day",
+            "name": "Пятница",
+            "id": "ID_88db5bfa192a",
+            "abbreviation": "ПТ"
+          },
+          {
+            "type": "day",
+            "name": "Суббота",
+            "id": "ID_f90b28fb4a29",
+            "abbreviation": "СБ"
+          },
+          {
+            "type": "day",
+            "name": "Воскресение",
+            "id": "ID_593a49d9ebd8",
+            "abbreviation": "ВС"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Январь",
+            "length": 31,
+            "id": "ID_99898859f95a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Февраль",
+            "length": 28,
+            "id": "ID_898a6be849eb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Март",
+            "length": 31,
+            "id": "ID_89185a499a69",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Апрель",
+            "length": 30,
+            "id": "ID_8bd9caabfbc9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Май",
+            "length": 31,
+            "id": "ID_08692bf988a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Июнь",
+            "length": 30,
+            "id": "ID_db4918b88b88",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Июль",
+            "length": 31,
+            "id": "ID_7a68597978eb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Август",
+            "length": 30,
+            "id": "ID_7bcbdaa9daca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Сентябрь",
+            "length": 31,
+            "id": "ID_db38586b3b58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Октябрь",
+            "length": 30,
+            "id": "ID_ca0a7bbbfa7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ноябрь",
+            "length": 31,
+            "id": "ID_d88b2a781bba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Декабрь",
+            "length": 31,
+            "id": "ID_9b18a97a4b2b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Луна",
+            "cycle": 10,
+            "offset": 0,
+            "faceColor": "#d4ff00",
+            "shadowColor": "#000",
+            "id": "ID_9b3849c8483b"
+          },
+          {
+            "name": "Вольд",
+            "cycle": 750,
+            "offset": 0,
+            "faceColor": "#120052",
+            "shadowColor": "#ff0000",
+            "id": "ID_29e83808697b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_8a1b689bb96a",
+            "type": "era",
+            "name": "Спокойствия",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 25,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 125,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_3979ca1ba87a",
+            "name": "Зима",
+            "type": "Dated",
+            "color": "#ffffff",
+            "month": 0,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_3808c9caaa29",
+            "name": "Весна",
+            "color": "#0033ff",
+            "type": "Dated",
+            "kind": "None",
+            "month": 2,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_794ab9cad868",
+            "name": "Лето",
+            "color": "#75a117",
+            "type": "Dated",
+            "kind": "None",
+            "month": 5,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_a89b9a8ae8ea",
+            "name": "Осень",
+            "color": "#bbff00",
+            "type": "Dated",
+            "kind": "None",
+            "month": 8,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_ebdae8ba2ae8",
+            "name": "Зима",
+            "color": "#fafafa",
+            "type": "Dated",
+            "kind": "None",
+            "month": 11,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 412702161,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Аз",
+            "id": "ID_69c8abea4b18",
+            "seasons": {
+              "ID_ebdae8ba2ae8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_3808c9caaa29": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_794ab9cad868": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_a89b9a8ae8ea": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          }
+        ],
+        "defaultLocation": "ID_69c8abea4b18"
+      },
+      "current": {
+        "day": 9,
+        "month": 6,
+        "year": 256
+      },
+      "events": [
+        {
+          "name": "Новый год",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": [
+              -1,
+              10000000
+            ]
+          },
+          "id": "ID_9b09598b58ea",
+          "note": null,
+          "category": "ID_7ad9985b19b8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Лучший день",
+          "description": null,
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": [
+              -1,
+              100000000000000
+            ]
+          },
+          "id": "ID_fb0b5a89e97a",
+          "note": null,
+          "category": "ID_7ad9985b19b8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_7ad9985b19b8",
+          "color": "#317a00",
+          "name": "Праздники"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_1a6b69b82988",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "ID_1a6b69b82988"
+    ]
+  ]
+}
