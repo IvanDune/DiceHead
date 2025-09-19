@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9031aa0f5f417140",
+        "id": "a2bc3f2f0810f195",
         "type": "tabs",
         "children": [
           {
-            "id": "95fce310a025c3d0",
+            "id": "d45ac7f439e1be00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Spire/Записи/Записи - вера превыше всего.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Записи - вера превыше всего"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тролль",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +181,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "1ef1c0e835dc3ec6",
+  "active": "d45ac7f439e1be00",
   "lastOpenFiles": [
+    "Игры/Записи.md",
+    "conflict-files-obsidian-git.md",
+    "Игры/СЪЕМКА/Заметки.md",
+    "Игры/Гоблинский пунш/Dungeon Fest.md",
     "Игры/СЪЕМКА/Кампания/Текущие статьи.md",
     "Игры/СЪЕМКА/Кампания/События/Квесты/Древнее знание - Выпуск 2.md",
     "Игры/СЪЕМКА/Кампания/События/Квесты/Дочь Кузнеца - Выпуск 1 (Не исправленно).md",
@@ -202,10 +210,6 @@
     "Видео/Ссылки.md",
     "Игры/Spire/Spire.md",
     "Игры/Spire/Записи/Записки.md",
-    "Игры/Spire/Модули/Вера превыше всего.md",
-    "Игры/Spire/Ваншоты.md",
-    "Игры/Heart/Модули/Вечно плачущий.md",
-    "Игры/Heart/Записи/Записи - общие.md",
     "Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/События/Круги",
     "Игры/СЪЕМКА/Кампания/События/Квесты",
