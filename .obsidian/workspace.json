@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты/SnowDice II.md",
+                "file": "Boosty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SnowDice II"
+              "title": "Boosty"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рыцарь",
+                "query": "мимик",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,6 +183,9 @@
   },
   "active": "1640a72164ad2764",
   "lastOpenFiles": [
+    "DiceHead контет/Контент план.md",
+    "Игры/Первый.md",
+    "Проекты/SnowDice II.md",
     "Проекты/Sneaky Dice Гоблины.md",
     "Проекты/Dungeon Fest.md",
     "Проекты/Питер Клубы.md",
@@ -194,12 +197,9 @@
     "Игры/Heart/Записи/Записи - не детский сказки дист.md",
     "Видео/Полный метр/Знакомьтесь Дюна 2 пм.md",
     "Boosty.md",
-    "DiceHead контет/Контент план.md",
     "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
     "conflict-files-obsidian-git.md",
     "Игры/Spire/Записи/Записи - вера превыше всего.md",
-    "Проекты/SnowDice II.md",
-    "Игры/Гоблинский пунш/Первый.md",
     "Игры/Гоблинский пунш/Записи.md",
     "Игры/WFRP/Oneshot/Кислев.md",
     "Игры/Symbaroum/Пятница.md",
