@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bc3f2f0810f195",
+        "id": "c8af5b4d0a27b39f",
         "type": "tabs",
         "children": [
           {
-            "id": "d45ac7f439e1be00",
+            "id": "1640a72164ad2764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Записи/Записи - вера превыше всего.md",
+                "file": "Проекты/SnowDice II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Записи - вера превыше всего"
-            }
-          },
-          {
-            "id": "d85059f50010977f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Записи - Весна сменяет лето"
-            }
-          },
-          {
-            "id": "93b489e543a92392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "SnowDice II"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +181,23 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "93b489e543a92392",
+  "active": "1640a72164ad2764",
   "lastOpenFiles": [
-    "Игры/Spire/Записи/Записи - вера превыше всего.md",
-    "conflict-files-obsidian-git.md",
+    "Проекты/Sneaky Dice Гоблины.md",
+    "Проекты/Dungeon Fest.md",
     "Проекты/Питер Клубы.md",
     "Проекты/Молл фест.md",
+    "Проекты/Без названия.md",
+    "Игры/Гоблинский пунш/Dungeon Fest.md",
+    "Игры/Spire/Ваншоты.md",
+    "Игры/Гоблинский пунш/1. Происшествие в Свомпсмуте.md",
+    "Игры/Heart/Записи/Записи - не детский сказки дист.md",
+    "Видео/Полный метр/Знакомьтесь Дюна 2 пм.md",
+    "Boosty.md",
+    "DiceHead контет/Контент план.md",
+    "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
+    "conflict-files-obsidian-git.md",
+    "Игры/Spire/Записи/Записи - вера превыше всего.md",
     "Проекты/SnowDice II.md",
     "Игры/Гоблинский пунш/Первый.md",
     "Игры/Гоблинский пунш/Записи.md",
@@ -223,23 +205,12 @@
     "Игры/Symbaroum/Пятница.md",
     "Игры/Symbaroum/Записи.md",
     "Игры/Spire/Записи/Записи.md",
-    "Игры/Heart/Записи/Записи - не детский сказки дист.md",
     "Видео/Шортсы/Визитка.md",
-    "DiceHead контет/Контент план.md",
     "DiceHead контет",
-    "Boosty.md",
-    "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
     "Игры/Spire/Модули/Вера превыше всего.md",
-    "Проекты/Sneaky Dice Гоблины.md",
     "Игры/СЪЕМКА/Кампания.zip",
-    "Видео/Полный метр/Знакомьтесь Дюна 2 пм.md",
     "Игры/Записи.md",
     "Игры/СЪЕМКА/Заметки.md",
-    "Игры/Гоблинский пунш/Dungeon Fest.md",
-    "Игры/СЪЕМКА/Кампания/Текущие статьи.md",
-    "Игры/СЪЕМКА/Кампания/События/Квесты/Древнее знание - Выпуск 2.md",
-    "Игры/СЪЕМКА/Кампания/События/Квесты/Дочь Кузнеца - Выпуск 1 (Не исправленно).md",
-    "Игры/СЪЕМКА/Кампания/Персонажи/Игроки/Флинт.md",
     "Игры/Spire/Сеть.canvas",
     "Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/События/Круги",
