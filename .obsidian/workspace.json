@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c8af5b4d0a27b39f",
+        "id": "36dc0dbcd681fb3a",
         "type": "tabs",
         "children": [
           {
-            "id": "1640a72164ad2764",
+            "id": "d187828d2cd16906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiceHead контет/Контент план.md",
+                "file": "Игры/Heart/Записи/Записи - не детский сказки дист.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Контент план"
+              "title": "Записи - не детский сказки дист"
             }
           },
           {
-            "id": "ba64089863620ad0",
+            "id": "9973e0f04562f2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Игры/Heart/Модули/Не детские сказки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Не детские сказки"
+            }
+          },
+          {
+            "id": "6aa010a862fbf2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Heart/Дополнительно/Подготовка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подготовка"
             }
           }
         ],
@@ -175,6 +189,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7af0cde2275b28d6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -185,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -196,15 +221,26 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ba64089863620ad0",
+  "active": "9973e0f04562f2fc",
   "lastOpenFiles": [
+    "Игры/Heart/Записи/Записи - не детский сказки дист.md",
+    "Игры/Heart/Дополнительно/Подготовка.md",
+    "Игры/Heart/Дополнительно/Правила.md",
+    "Игры/Heart/Модули/Не детские сказки.md",
+    "Игры/Heart/Записи/Записи - не детские сказки.md",
+    "Игры/Spire/Персонажи.md",
     "DiceHead контет/Контент план.md",
+    "DiceHead контет/Видео.md",
+    "DiceHead контет/Boosty.md",
+    "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
+    "Игры/Spire/Сеть.canvas",
+    "Игры/Spire/Модули/II. Мы всего лишь пешки.md",
+    "Игры/Symbaroum/Записи.md",
+    "Видео/Шортсы/Визитка.md",
+    "DiceHead контет/Календарь.md",
     "conflict-files-obsidian-git.md",
     "Boosty.md",
     "Видео/Полный метр/Кинотанец.md",
-    "DiceHead контет/Календарь.md",
-    "DiceHead контет/Видео.md",
-    "DiceHead контет/Boosty.md",
     "Игры/Первый.md",
     "Проекты/SnowDice II.md",
     "Проекты/Sneaky Dice Гоблины.md",
@@ -214,19 +250,8 @@
     "Проекты/Без названия.md",
     "Игры/Гоблинский пунш/Dungeon Fest.md",
     "Игры/Spire/Ваншоты.md",
-    "Игры/Гоблинский пунш/1. Происшествие в Свомпсмуте.md",
-    "Игры/Heart/Записи/Записи - не детский сказки дист.md",
-    "Видео/Полный метр/Знакомьтесь Дюна 2 пм.md",
-    "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
-    "Игры/Spire/Записи/Записи - вера превыше всего.md",
-    "Игры/Гоблинский пунш/Записи.md",
-    "Игры/WFRP/Oneshot/Кислев.md",
-    "Игры/Symbaroum/Пятница.md",
-    "Игры/Symbaroum/Записи.md",
-    "Игры/Spire/Записи/Записи.md",
     "DiceHead контет",
     "Игры/СЪЕМКА/Кампания.zip",
-    "Игры/Spire/Сеть.canvas",
     "Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/События/Круги",
     "Игры/СЪЕМКА/Кампания/События/Квесты",
