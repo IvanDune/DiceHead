@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78acb75d6fabc241",
+        "id": "65155dd2c0bdc72d",
         "type": "tabs",
         "children": [
           {
-            "id": "471ccccfe6df2b56",
+            "id": "063f008f7a992030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Дополнительно/Персонажи.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Персонажи"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мимик",
+                "query": "предков",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,17 +188,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "471ccccfe6df2b56",
+  "active": "063f008f7a992030",
   "lastOpenFiles": [
-    "Видео/Монтаж.md",
     "Игры/Heart/Дополнительно/Персонажи.md",
+    "Игры/Heart/Дополнительно/Подготовка.md",
+    "Игры/Heart/Дополнительно/Снаряжение.md",
+    "Игры/Гоблинский пунш/2. Новый Грог.md",
+    "Без названия.md",
     "Игры/Symbaroum/Пятница.md",
+    "Игры/Symbaroum/Квесты/Помнящие предков.md",
+    "Игры/Symbaroum/Записи.md",
+    "Игры/Spire/Модули/I. Весна сменяет лето.md",
+    "Игры/Heart/Модули/Не детские сказки.md",
+    "Игры/Heart/Модули/Вечно плачущий.md",
     "Игры/Mothership.md",
+    "Подготовка/Эпик Гобликон.md",
+    "Видео/Монтаж.md",
     "Видео/Шортсы/Системы.md",
     "Видео/Полный метр/Системы.md",
-    "Игры/Heart/Дополнительно/Подготовка.md",
     "Игры/WFRP/Oneshot/Прааг.md",
-    "Игры/Heart/Модули/Не детские сказки.md",
     "Игры/Heart/Записи/Записи - не детский сказки дист.md",
     "Игры/Heart/Дополнительно/Правила.md",
     "Игры/Heart/Записи/Записи - не детские сказки.md",
@@ -213,14 +217,6 @@
     "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
     "Игры/Spire/Сеть.canvas",
     "Игры/Spire/Модули/II. Мы всего лишь пешки.md",
-    "Игры/Symbaroum/Записи.md",
-    "Видео/Шортсы/Визитка.md",
-    "DiceHead контет/Календарь.md",
-    "conflict-files-obsidian-git.md",
-    "Boosty.md",
-    "Видео/Полный метр/Кинотанец.md",
-    "Игры/Первый.md",
-    "Проекты/SnowDice II.md",
     "DiceHead контет",
     "Игры/СЪЕМКА/Кампания.zip",
     "Видео/Съемка.canvas",
