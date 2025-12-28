@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65155dd2c0bdc72d",
+        "id": "ea5b8bc26291d377",
         "type": "tabs",
         "children": [
           {
-            "id": "063f008f7a992030",
+            "id": "8c5e06e2ad00e484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DiceHead контет/DiceHead лор.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "DiceHead лор"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "предков",
+                "query": "зеле",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +192,14 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "063f008f7a992030",
+  "active": "8c5e06e2ad00e484",
   "lastOpenFiles": [
+    "DiceHead контет/DiceHead лор.md",
+    "Игры/Symbaroum/Руины земеса.md",
+    "Игры/Symbaroum/Записи.md",
+    "Игры/Symbaroum/Антон/Дисмас/Записи.md",
+    "Игры/Symbaroum/Антон/Дисмас/Известные личности.md",
+    "Игры/Symbaroum/Квесты/Руины/Руины Паука.md",
     "Игры/Heart/Дополнительно/Персонажи.md",
     "Игры/Heart/Дополнительно/Подготовка.md",
     "Игры/Heart/Дополнительно/Снаряжение.md",
@@ -197,7 +207,6 @@
     "Без названия.md",
     "Игры/Symbaroum/Пятница.md",
     "Игры/Symbaroum/Квесты/Помнящие предков.md",
-    "Игры/Symbaroum/Записи.md",
     "Игры/Spire/Модули/I. Весна сменяет лето.md",
     "Игры/Heart/Модули/Не детские сказки.md",
     "Игры/Heart/Модули/Вечно плачущий.md",
@@ -211,12 +220,7 @@
     "Игры/Heart/Дополнительно/Правила.md",
     "Игры/Heart/Записи/Записи - не детские сказки.md",
     "Игры/Spire/Персонажи.md",
-    "DiceHead контет/Контент план.md",
-    "DiceHead контет/Видео.md",
-    "DiceHead контет/Boosty.md",
-    "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
     "Игры/Spire/Сеть.canvas",
-    "Игры/Spire/Модули/II. Мы всего лишь пешки.md",
     "DiceHead контет",
     "Игры/СЪЕМКА/Кампания.zip",
     "Видео/Съемка.canvas",
