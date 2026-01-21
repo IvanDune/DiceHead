@@ -31,5 +31,9 @@
 		{"id":"66aa670cece24e6a","fromNode":"d2520084aef116b4","fromSide":"bottom","toNode":"43e9f215e63d102b","toSide":"top"},
 		{"id":"7b61d8eec483bc0b","fromNode":"d2520084aef116b4","fromSide":"bottom","toNode":"33dc1614af26496e","toSide":"top"},
 		{"id":"913f03b0d21c6a7f","fromNode":"200ebafa5d79175d","fromSide":"top","toNode":"169c2553b7d91164","toSide":"bottom","color":"5"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
