@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6df720262b317fed",
+        "id": "b010045b21df1567",
         "type": "tabs",
         "children": [
           {
-            "id": "ece801aaf145bf16",
+            "id": "33415e35d788e8df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Гоблинский пунш/Dungeon Fest II.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dungeon Fest II"
-            }
-          },
-          {
-            "id": "9f5c09f2c961ccc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проекты/SnowDice II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SnowDice II"
-            }
-          },
-          {
-            "id": "7078eda737f6fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Гоблинский пунш/2. Новый Грог.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Новый Грог"
-            }
-          },
-          {
-            "id": "cde4cb4b8c4b377c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Гоблинский пунш/Записи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Записи"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,16 +187,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cde4cb4b8c4b377c",
+  "active": "33415e35d788e8df",
   "lastOpenFiles": [
+    "Игры/Heart/Помощь.md",
+    "Игры/Heart/Модули/Не детские сказки.md",
+    "Игры/Spire/Дополнительно.md",
+    "Игры/Spire/Ваншоты.md",
+    "Игры/Гоблинский пунш/Записи.md",
     "Проекты/SnowDice II.md",
     "Игры/Гоблинский пунш/2. Новый Грог.md",
-    "Игры/Гоблинский пунш/Записи.md",
     "Игры/Гоблинский пунш/Dungeon Fest II.md",
     "Игры/Spire/Сеть.canvas",
-    "Игры/Heart/Модули/Не детские сказки.md",
     "Игры/Heart/Дополнительно/Подготовка.md",
-    "Игры/Heart/Помощь.md",
     "Игры/Heart/Oneshot/Проклятый старый завод.md",
     "Игры/Heart/Дополнительно/Персонажи.md",
     "Игры/Heart/Дополнительно/Снаряжение.md",
@@ -265,8 +220,6 @@
     "Игры/Первый.md",
     "Игры/WFRP/Oneshot/Прааг.md",
     "Игры/Mothership.md",
-    "Видео/Шортсы/Системы.md",
-    "Видео/Полный метр/Системы.md",
     "DiceHead контет/Контент Календарь",
     "Игры/Корпоративы",
     "Игры/Symbaroum/SRD",
