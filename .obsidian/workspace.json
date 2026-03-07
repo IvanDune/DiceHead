@@ -13,44 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Symbaroum/Василий.md",
+                "file": "Игры/Гоблинский пунш/4. Якоря да Мачты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Василий"
-            }
-          },
-          {
-            "id": "edf7f0ddcc9b50b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/D&D/Погодные условия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Погодные условия"
-            }
-          },
-          {
-            "id": "5399b6f0c69e88b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "4. Якоря да Мачты"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "3f509274b69529ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babab43a0f1ef829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Гоблинский пунш/2. Новый Грог.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Новый Грог"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,15 +212,21 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "5399b6f0c69e88b4",
+  "active": "0f8f368b0133b441",
   "lastOpenFiles": [
+    "Игры/Гоблинский пунш/2. Новый Грог.md",
+    "Игры/Гоблинский пунш/4. Якоря да Мачты.md",
+    "Игры/Гоблинский пунш/3. Беспечный гоблин.md",
+    "Игры/Гоблинский пунш/Dungeon Fest.md",
+    "Игры/Гоблинский пунш/Записи.md",
+    "Игры/Первый 1.md",
+    "Игры/Symbaroum/Василий.md",
+    "DiceHead контет/Sn.md",
     "Игры/D&D/Погодные условия.md",
     "conflict-files-obsidian-git.md",
     "Без названия.canvas",
-    "DiceHead контет/Sn.md",
     "DiceFest Website/Описание.md",
     "DiceFest Website",
-    "Игры/Symbaroum/Василий.md",
     "Подготовка/Техинтервью.md",
     "Подготовка/Работа.md",
     "Подготовка/Вспомнить.md",
@@ -246,11 +243,6 @@
     "Проекты/SnowDice II.md",
     "Лекции/Классификация НРИ. Почему я перестал играть в D&D.md",
     "Доп. инфа/Волчьи цитаты.md",
-    "Играю/Охотники.md",
-    "Игры/D&D/Записи.md",
-    "Проекты/Петр.md",
-    "Игры/Гоблинский пунш/Первый.md",
-    "Игры/Гоблинский пунш/Dungeon Fest II.md",
     "Игры/Spire/Без названия.canvas",
     "Игры/Symbaroum/Связи.canvas",
     "Pasted image 20260108143508.png",
