@@ -4,70 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "e8acc1e1ea48ced0",
+        "id": "fe3648d818c500bd",
         "type": "tabs",
         "children": [
           {
-            "id": "21991fdcdf18549c",
+            "id": "a72db2bebf59fbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Записи/Записи - Отличный пример.md",
+                "file": "Игры/Spire/Записи/Очный Шпиль.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Записи - Отличный пример"
-            }
-          },
-          {
-            "id": "061cb94879a97c75",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игры/Spire/Сеть.canvas",
-                "viewState": {
-                  "x": -532.6382861644929,
-                  "y": 292.39939971433495,
-                  "zoom": -1.010124217273708
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Сеть"
-            }
-          },
-          {
-            "id": "fd4cd50618eb8ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Spire/Модули/II. Мы всего лишь пешки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "II. Мы всего лишь пешки"
-            }
-          },
-          {
-            "id": "e30166e7d94d2901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Гоблинский пунш/Коробка квест.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Коробка квест"
+              "title": "Очный Шпиль"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "6674a4a37058965c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a161f673dead2612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Spire/Модули/I. Весна сменяет лето.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "I. Весна сменяет лето"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сизый",
+                "query": "браззак",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Видео/Монтаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Монтаж"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -188,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Игры/Spire/Модули/Весна сменяет лето/Записи/Статья о Бартоломеи.md",
+                "file": "DiceHead контет/Видео/Видео.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Статья о Бартоломеи"
+              "title": "Структура Видео"
             }
           },
           {
@@ -217,7 +192,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -235,53 +211,53 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "e30166e7d94d2901",
+  "active": "a72db2bebf59fbfb",
   "lastOpenFiles": [
-    "Игры/Heart/Дополнительно/Персонажи.md",
-    "Игры/Гоблинский пунш/Коробка квест.md",
-    "Игры/Heart/Дополнительно/Прегены персонажей.md",
-    "Игры/Heart/Дополнительно/Подготовка.md",
-    "Игры/Heart/Дополнительно/Правила.md",
-    "Игры/Heart/Дополнительно/Ресурсы.md",
-    "Игры/Heart/Дополнительно/Снаряжение.md",
-    "Игры/Symbaroum/Василий.md",
-    "Проекты/DiceFest IV.md",
-    "Игры/Spire/Записи/Записи - Отличный пример.md",
-    "Игры/Spire/Сеть.canvas",
-    "Игры/Spire/Модули/II. Мы всего лишь пешки.md",
-    "Игры/Spire/Модули/III. Отличный пример плохого человека.md",
-    "Играю/Охотники.md",
-    "Проекты/Фест в Новгород.md",
-    "Проекты/Фест в Уфе.md",
-    "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
     "Игры/Spire/Модули/I. Весна сменяет лето.md",
-    "Игры/Symbaroum/Пятница.md",
+    "Игры/Spire/Записи/Очный Шпиль.md",
     "Игры/Spire/Без названия.canvas",
-    "Видео/Помощь.md",
-    "Игры/Spire/Персонажи.md",
-    "Игры/Spire/Spire.md",
-    "Игры/Spire/Ваншоты.md",
-    "Игры/Spire/Дополнительно.md",
-    "Игры/Spire/Oneshot/Вынужденные жертвы.md",
-    "Игры/D&D/Проклятье Страда/Персонажи.md",
-    "Игры/Гоблинский пунш/2. Новый Грог.md",
-    "Без названия.canvas",
-    "DiceFest Website",
-    "Игры/D&D/Проклятье Страда",
+    "Игры/Spire/Модули/Детские Банды.md",
+    "Игры/Spire/Сеть.canvas",
+    "Игры/Spire/Записи/Аудиографы - Лабаратория.md",
+    "Игры/Spire/Модули/III. Отличный пример плохого человека.md",
+    "Мерч.md",
+    "Игры/Гоблинский пунш/5. Курочка по-Карибски.md",
+    "Игры/Гоблинский пунш/3. Беспечный гоблин.md",
+    "Игры/Гоблинский пунш/Коробка квест.md",
+    "Проекты/ТикТок Бреганов.md",
+    "Игры/Гоблинский пунш/4. Якоря да Мачты.md",
+    "Игры/Spire/Записи/Записки.md",
+    "DiceHead контет/Видео/Видео.md",
+    "Дела.md",
+    "Подкасты/Подкаст.md",
+    "DiceHead контет/DiceFest Website/Описание.md",
+    "Игры/Spire/Сеть.md",
+    "Без названия.base",
+    "Excalidraw/Drawing 2026-05-28 18.46.24.excalidraw.md",
+    "Игры/Spire/Записи/Записи - Отличный пример.md",
+    "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
+    "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
+    "Игры/Spire/Записи/Записи - вера превыше всего.md",
+    "Игры/Spire/Записи/Записи.md",
+    "Игры/Spire/Записи/Записи - Лазарь.md",
+    "Игры/Symbaroum/Василий.md",
+    "Excalidraw",
     "Игры/Symbaroum/Связи.canvas",
+    "Без названия.canvas",
+    "DiceHead контет/DiceFest Website",
+    "Игры/D&D/Проклятье Страда",
     "Pasted image 20260108143508.png",
-    "Видео/ИИ",
+    "DiceHead контет/Видео/ИИ",
     "Игры/Spire/Oneshot",
     "Игры/Pirate Borg/Oneshot",
-    "Видео/Полный метр/Снято",
+    "DiceHead контет/Видео/Полный метр/Снято",
     "DiceHead контет",
     "Игры/СЪЕМКА/Кампания.zip",
-    "Видео/Съемка.canvas",
-    "Игры/СЪЕМКА/Кампания/События/Круги",
-    "Игры/СЪЕМКА/Кампания/События/Квесты",
+    "DiceHead контет/Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Якорь.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Флаг.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Саурон.png",
