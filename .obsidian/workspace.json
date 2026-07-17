@@ -22,6 +22,21 @@
             }
           },
           {
+            "id": "5238b63ca59a0479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Гоблинский пунш/Коробка квест.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Коробка квест"
+            }
+          },
+          {
             "id": "ff690bdd1c6d3926",
             "type": "leaf",
             "state": {
@@ -46,13 +61,15 @@
               "state": {
                 "file": "Игры/Spire/Записи.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Записи"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,52 +239,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ada9beb8dfc8c17",
+  "active": "5238b63ca59a0479",
   "lastOpenFiles": [
-    "Игры/Spire/Записи.md",
+    "conflict-files-obsidian-git.md",
     "Игры/Spire/Oneshot/Вынужденные жертвы.md",
-    "Игры/Spire/Модули/III. Отличный пример плохого человека.md",
+    "Игры/Spire/Записи.md",
     "Игры/Spire/Без названия.canvas",
-    "Игры/Spire/Записи/Записи.md",
-    "Игры/Spire/Ваншоты.md",
-    "Игры/Spire/Записи/Записки.md",
-    "Игры/Spire/Лазарь.md",
+    "DiceHead контет/Видео/Полный метр/Снято/Кинотанец.md",
+    "DiceHead контет/Видео/Полный метр/Снято/Знакомьтесь Дюна пм.md",
+    "DiceHead контет/Видео/Полный метр/Снято/Знакомьтесь Дюна 2 пм.md",
+    "DiceHead контет/Видео/Полный метр/Снято/Зачем мы играем в НРИ.md",
+    "DiceHead контет/Видео/Полный метр/Снято/Heart.md",
+    "DiceHead контет/Видео/Шортсы/Текст.md",
+    "DiceHead контет/Видео/Шортсы/Системы.md",
+    "DiceHead контет/Видео/Шортсы/Реклама фестиваля.md",
+    "DiceHead контет/Видео/Шортсы/Мы перестали мечтать.md",
+    "DiceHead контет/Видео/Шортсы/Идеи.md",
+    "DiceHead контет/Видео/Шортсы/Знакомьтесь Дюна ш.md",
+    "DiceHead контет/Видео/Шортсы/Визитка.md",
+    "DiceHead контет/Видео/Полный метр/Снято",
+    "DiceHead контет/Видео/Полный метр/Крепость Роузторн.md",
+    "DiceHead контет/Видео/Полный метр/Symbaroum.md",
+    "DiceHead контет/Видео/Полный метр/Идеи.md",
+    "DiceHead контет/Видео/Полный метр/Daisy Chainsaw.md",
+    "DiceHead контет/Видео/Полный метр/Spire.md",
+    "DiceHead контет/Видео/Операторская работа/Композиция.md",
+    "DiceHead контет/Видео/ИИ/Инфа.md",
+    "DiceHead контет/Видео/Шортсы",
+    "DiceHead контет/Видео/Съемка.canvas",
+    "DiceHead контет/Видео/Студийная банда.md",
+    "DiceHead контет/Видео/Ссылки.md",
+    "DiceHead контет/Видео/Помощь.md",
+    "DiceHead контет/Видео/Полный метр",
+    "DiceHead контет/Видео/Операторская работа",
+    "DiceHead контет/Видео/Монтаж.md",
+    "DiceHead контет/Видео/ИИ",
+    "DiceHead контет/Видео",
+    "DiceHead контет/DiceFest Website",
     "Игры/Spire/Сеть.canvas",
-    "Игры/Spire/Записи/Записи - Отличный пример.md",
-    "Игры/Spire/Записи/Записи - вера превыше всего.md",
-    "Игры/Heart/Oneshot/Экологический самородок.md",
     "Pasted image 20260622215744.png",
-    "ТЕСТ СРМ.md",
     "Pasted image 20260622215304.png",
     "Pasted image 20260622214004.png",
     "Pasted image 20260622213747.png",
     "Pasted image 20260622213701.png",
     "Pasted image 20260622213318.png",
-    "Игры/ЭПИК ХК.md",
-    "Игры/Heart/Записи/Записи - общие.md",
-    "Игры/Symbaroum/Записи.md",
-    "Excalidraw/Drawing 2026-06-10 11.48.24.excalidraw.md",
     "Excalidraw",
-    "Игры/Spire/Персонажи.md",
-    "Игры/Гоблинский пунш/Коробка квест.md",
-    "Игры/Первый.md",
-    "Игры/Первый 1.md",
-    "Игры/Symbaroum/Василий.md",
-    "Игры/Trail of Cthulhu/Peace Water Supply.md",
-    "conflict-files-obsidian-git.md",
-    "Проекты/Фест в Уфе.md",
-    "Проекты/Фест в Новгород.md",
-    "Игры/Heart/Дополнительно/Прегены персонажей.md",
     "DiceFest Website",
     "Проекты/Goblins and Cheese",
     "Без названия.canvas",
-    "Игры/D&D/Проклятье Страда",
-    "Игры/Spire/Oneshot",
-    "Игры/Pirate Borg/Oneshot",
-    "Видео/Полный метр/Снято",
-    "Видео/ИИ",
-    "Игры/СЪЕМКА/Кампания/Персонажи/Карты/Точки интереса",
-    "Игры/СЪЕМКА/Кампания/Персонажи/Карты/Страны",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Якорь.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Флаг.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Саурон.png",
@@ -277,7 +296,6 @@
     "Игры/Symbaroum/Квесты/Трясина черной смолы/Трясина.canvas",
     "Игры/Symbaroum/Связи.canvas",
     "Игры/Spire/Модули/Весна сменяет лето/Сеть.canvas",
-    "Игры/Heart/Вечно Плачущий/Карта.canvas",
-    "Игры/Spire/Весна сменяет лето/Сеть.canvas"
+    "Игры/Heart/Вечно Плачущий/Карта.canvas"
   ]
 }
