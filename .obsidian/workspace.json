@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a72db2bebf59fbfb",
+            "id": "8f7c615340f07959",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Записи/Очный Шпиль.md",
+                "file": "Игры/Heart/Oneshot/Физические знания.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Очный Шпиль"
+              "title": "Физические знания"
             }
           }
         ]
       },
       {
-        "id": "6674a4a37058965c",
+        "id": "e2d3ef7ed84b4737",
         "type": "tabs",
         "children": [
           {
-            "id": "a161f673dead2612",
+            "id": "a72db2bebf59fbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Модули/I. Весна сменяет лето.md",
+                "file": "Игры/Heart/Oneshot/Экологический самородок.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "I. Весна сменяет лето"
+              "title": "Экологический самородок"
             }
           }
         ]
@@ -215,13 +215,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a72db2bebf59fbfb",
+  "active": "8f7c615340f07959",
   "lastOpenFiles": [
-    "Игры/Spire/Модули/I. Весна сменяет лето.md",
-    "Игры/Spire/Записи/Очный Шпиль.md",
-    "Игры/Spire/Без названия.canvas",
+    "Игры/Heart/Oneshot/Экологический самородок.md",
+    "Игры/Heart/Oneshot/Физические знания.md",
     "Игры/Spire/Модули/Детские Банды.md",
     "Игры/Spire/Сеть.canvas",
+    "Игры/Spire/Модули/I. Весна сменяет лето.md",
+    "Игры/Spire/Записи/Очный Шпиль.md",
+    "Игры/Spire/Личности/Люпен 'Снежная Кость'.md",
+    "Игры/Spire/Spire.md",
+    "Игры/Spire/Spire - Дистант.canvas",
+    "Игры/Spire/Записи/Записи - вера превыше всего.md",
     "Игры/Spire/Записи/Аудиографы - Лабаратория.md",
     "Игры/Spire/Модули/III. Отличный пример плохого человека.md",
     "Мерч.md",
@@ -241,10 +246,6 @@
     "Игры/Spire/Записи/Записи - Отличный пример.md",
     "Игры/Spire/Записи/Записи - Мы всего лишь пешки.md",
     "Игры/Spire/Записи/Записи - Весна сменяет лето.md",
-    "Игры/Spire/Записи/Записи - вера превыше всего.md",
-    "Игры/Spire/Записи/Записи.md",
-    "Игры/Spire/Записи/Записи - Лазарь.md",
-    "Игры/Symbaroum/Василий.md",
     "Excalidraw",
     "Игры/Symbaroum/Связи.canvas",
     "Без названия.canvas",
