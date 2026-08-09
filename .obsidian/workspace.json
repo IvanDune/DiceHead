@@ -4,46 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "fe3648d818c500bd",
+        "id": "608949cd7de6134c",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7c615340f07959",
+            "id": "80b88ccf8a87f202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Heart/Oneshot/Физические знания.md",
+                "file": "Игры/Spire/Модули/I. Весна сменяет лето.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Физические знания"
+              "title": "I. Весна сменяет лето"
             }
-          }
-        ]
-      },
-      {
-        "id": "e2d3ef7ed84b4737",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a72db2bebf59fbfb",
+            "id": "0c1c67d5f28641f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Heart/Oneshot/Экологический самородок.md",
+                "file": "Игры/Spire/Записи/Очный Шпиль.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Экологический самородок"
+              "title": "Очный Шпиль"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -215,14 +212,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8f7c615340f07959",
+  "active": "0c1c67d5f28641f1",
   "lastOpenFiles": [
+    "Игры/Spire/Модули/I. Весна сменяет лето.md",
+    "Игры/Spire/Записи/Очный Шпиль.md",
     "Игры/Heart/Oneshot/Экологический самородок.md",
     "Игры/Heart/Oneshot/Физические знания.md",
     "Игры/Spire/Модули/Детские Банды.md",
     "Игры/Spire/Сеть.canvas",
-    "Игры/Spire/Модули/I. Весна сменяет лето.md",
-    "Игры/Spire/Записи/Очный Шпиль.md",
     "Игры/Spire/Личности/Люпен 'Снежная Кость'.md",
     "Игры/Spire/Spire.md",
     "Игры/Spire/Spire - Дистант.canvas",
