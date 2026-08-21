@@ -40,6 +40,21 @@
             }
           },
           {
+            "id": "0cbfb1d4476603fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "214247130b52eb91",
             "type": "leaf",
             "state": {
@@ -55,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,10 +243,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f17f7bdebc518de1",
+  "active": "0cbfb1d4476603fe",
   "lastOpenFiles": [
-    "Игры/Spire/Модули/I. Весна сменяет лето.md",
     "Игры/Spire/Записи/Записки.md",
+    "conflict-files-obsidian-git.md",
+    "Игры/Spire/Персонажи игроков/Райка.md",
+    "Игры/Spire/Персонажи игроков/Луми.md",
+    "Игры/Spire/Персонажи игроков/Гримм.md",
+    "Игры/Spire/Персонажи игроков/Арочи.md",
+    "Игры/Spire/Персонажи игроков",
+    "Игры/Spire/Личности/Дарующий-Жизнь.md",
+    "Игры/Spire/Spire - Очный.canvas",
+    "Игры/Spire/Spire - Дистант.canvas",
+    "Игры/Heart/Oneshot/Физические знания.md",
+    "Игры/Spire/Модули/I. Весна сменяет лето.md",
     "Игры/Spire/Сеть.canvas",
     "Игры/Spire/Записи/Очные записи.md",
     "Игры/Spire/Личности/Вейрон 'Белая Прядь' Фрост.md",
@@ -247,16 +272,10 @@
     "Игры/Spire/Модули/Детские Банды.md",
     "Игры/Spire/Без названия.canvas",
     "Расстановка.md",
-    "conflict-files-obsidian-git.md",
     "Игры/Spire/Oneshot/Вынужденные жертвы.md",
     "Игры/Spire/Записи.md",
     "DiceHead контет/Видео/Полный метр/Снято/Кинотанец.md",
     "DiceHead контет/Видео/Полный метр/Снято/Знакомьтесь Дюна пм.md",
-    "DiceHead контет/Видео/Полный метр/Снято/Знакомьтесь Дюна 2 пм.md",
-    "DiceHead контет/Видео/Полный метр/Снято/Зачем мы играем в НРИ.md",
-    "DiceHead контет/Видео/Полный метр/Снято/Heart.md",
-    "DiceHead контет/Видео/Шортсы/Текст.md",
-    "DiceHead контет/Видео/Шортсы/Системы.md",
     "DiceHead контет/Видео/Полный метр/Снято",
     "DiceHead контет/Видео/Шортсы",
     "DiceHead контет/Видео/Съемка.canvas",
@@ -273,7 +292,6 @@
     "Pasted image 20260622213318.png",
     "Excalidraw",
     "DiceFest Website",
-    "Проекты/Goblins and Cheese",
     "Без названия.canvas",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Якорь.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Флаг.png",
@@ -282,8 +300,6 @@
     "Видео/Съемка.canvas",
     "Игры/Heart/Дополнительно/Карта.canvas",
     "Игры/Symbaroum/Квесты/Трясина черной смолы/Трясина.canvas",
-    "Игры/Symbaroum/Связи.canvas",
-    "Игры/Spire/Модули/Весна сменяет лето/Сеть.canvas",
-    "Игры/Heart/Вечно Плачущий/Карта.canvas"
+    "Игры/Symbaroum/Связи.canvas"
   ]
 }
