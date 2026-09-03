@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "bf1e8aad6c7f4fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "4c8c4437415c330b",
             "type": "leaf",
             "state": {
@@ -70,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,10 +259,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "16a424d95f21390b",
+  "active": "bf1e8aad6c7f4fca",
   "lastOpenFiles": [
-    "Игры/Spire/Модули/Лазарь.md",
     "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
+    "conflict-files-obsidian-git.md",
+    "Проекты/Тестовые игры БП.md",
+    "Игры/ЭПИК ХК.md",
+    "Игры/Гоблинский пунш/Dungeon Fest 1.5.md",
+    "Игры/Spire/Лазарь.md",
+    "Игры/Spire/Записи/Очные записи.md",
+    "Игры/Spire/Записи.md",
+    "Игры/D&D/Игра.md",
+    "Excalidraw/Drawing 2026-06-10 11.48.24.excalidraw.md",
+    "Игры/Spire/Модули/Лазарь.md",
     "Игры/Heart/Модули/Дверь в Иномирье.md",
     "Игры/Heart/Дверь в Иномирье.canvas",
     "Игры/Spire/Записи/Дистант Шпиль.md",
@@ -267,16 +291,7 @@
     "Игры/Spire/Личности/Люпен 'Снежная Кость'.md",
     "Игры/Spire/Spire - Дистант.canvas",
     "DiceHead контет/DiceHead лор.md",
-    "Игры/Spire/Записи/Записи.md",
-    "Игры/Spire/Личности/Джерольд Варген.md",
-    "Игры/Spire/Персонажи игроков/Луми.md",
-    "Игры/Spire/Личности/Ванесса Штольц.md",
-    "Игры/Spire/Личности/Дарующий-Жизнь.md",
-    "Игры/Spire/Персонажи игроков/Гримм.md",
-    "Игры/Spire/Персонажи игроков/Райка.md",
-    "Игры/Spire/Персонажи игроков/Арочи.md",
     "Игры/Spire/Персонажи игроков",
-    "Игры/Spire/Spire.md",
     "Без названия.base",
     "Excalidraw",
     "Игры/Symbaroum/Связи.canvas",
