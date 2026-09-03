@@ -22,28 +22,6 @@
 		{"id":"af5d5634110ae1c9","type":"file","file":"Игры/Spire/Личности/Люпен 'Снежная Кость'.md","x":-2660,"y":1095,"width":400,"height":200,"color":"2"},
 		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/Личности/Ванесса Штольц.md","x":-2660,"y":1416,"width":400,"height":176,"color":"2"},
 		{
-			"id":"28c1f1fccfb69688",
-			"type":"text",
-			"text":"[[Детские Банды#Дом Куиннс|Дом Куиннс]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-200,
-			"y":-2160,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"d3db4aad3fcc3f32",
-			"type":"text",
-			"text":"[[Детские Банды#«Бритва» Томми Куинн|\"Бритва\" Томми Куинн]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-460,
-			"y":-1980,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
 			"id":"a2456feabb443b98",
 			"type":"text",
 			"text":"### Лордар рыцарь",
@@ -66,17 +44,6 @@
 		{"id":"117e1222bf1bcf4a","type":"text","text":"## Синие плуты","x":-770,"y":1315,"width":250,"height":50,"color":"2"},
 		{"id":"90062283dd772bad","type":"text","text":"## Завод SF-014","x":-380,"y":1305,"width":250,"height":60,"color":"6"},
 		{"id":"cf0ce6d10926b9ca","type":"file","file":"Игры/Spire/Личности/Вейрон 'Белая Прядь' Фрост.md","x":-69,"y":947,"width":400,"height":140,"color":"2"},
-		{
-			"id":"4a49503037358045",
-			"type":"text",
-			"text":"[[Детские Банды#Геми-Герцогиня Салиеро «Рыжая» Куинн|Геми Салиеро \"Рыжая\" Куинн]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":60,
-			"y":-1980,
-			"width":280,
-			"height":60,
-			"color":"6"
-		},
 		{"id":"5039f83452c632b4","type":"text","text":"**МАДЖЕ ФАМЕ**","x":-1280,"y":1532,"width":250,"height":60,"color":"1"},
 		{
 			"id":"4ad49d900dde15cc",
@@ -251,23 +218,56 @@
 			"height":60
 		},
 		{
-			"id":"1682436cb87a6c4b",
-			"type":"text",
-			"text":"[[Детские Банды#Брат Луи|Брат Луи]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":400,
-			"y":-1900,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"888bc8bf3994358c",
 			"type":"text",
 			"text":"[[Детские Банды#Архиеписком Уинн|Архиепископ Уинн]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":760,
 			"y":-1680,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"28c1f1fccfb69688",
+			"type":"text",
+			"text":"[[Детские Банды#Дом Куиннс|Дом Куиннс]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-200,
+			"y":-2160,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"d3db4aad3fcc3f32",
+			"type":"text",
+			"text":"[[Детские Банды#«Бритва» Томми Куинн|\"Бритва\" Томми Куинн]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-460,
+			"y":-1980,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"4a49503037358045",
+			"type":"text",
+			"text":"[[Детские Банды#Геми-Герцогиня Салиеро «Рыжая» Куинн|Геми Салиеро \"Рыжая\" Куинн]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":60,
+			"y":-1980,
+			"width":280,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"1682436cb87a6c4b",
+			"type":"text",
+			"text":"[[Детские Банды#Брат Луи|Брат Луи]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":400,
+			"y":-1900,
 			"width":260,
 			"height":60,
 			"color":"4"
@@ -284,37 +284,15 @@
 			"color":"5"
 		},
 		{
-			"id":"d64da50ce1ffa385",
-			"type":"text",
-			"text":"[[Детские Банды#Норман Уиспер|Норман Уиспер]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":400,
-			"y":-1440,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"29c453d51d92b7af",
 			"type":"text",
-			"text":"[[Детские Банды#Магритт \"Молли\" Дюваль|Магритт \"Молли\" Дюваль]]",
+			"text":"[[Детские Банды#Старая Нэн|Старая Нэн]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-800,
 			"y":-1500,
 			"width":260,
 			"height":60,
 			"color":"5"
-		},
-		{
-			"id":"a715e076aa7a8c4c",
-			"type":"text",
-			"text":"[[Детские Банды#Леди Террин Шипы-на-Шелке|Леди Террин Шипы-на-Шелке]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-200,
-			"y":-1160,
-			"width":260,
-			"height":60,
-			"color":"2"
 		},
 		{
 			"id":"8bbc0041df6aec71",
@@ -348,6 +326,48 @@
 			"width":260,
 			"height":60,
 			"color":"5"
+		},
+		{
+			"id":"6efa6a69afd5a026",
+			"type":"text",
+			"text":"Антон",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-1260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d64da50ce1ffa385",
+			"type":"text",
+			"text":"[[Детские Банды#Норман Уиспер|Норман Уиспер]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":400,
+			"y":-1440,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a715e076aa7a8c4c",
+			"type":"text",
+			"text":"[[Детские Банды#Леди Террин Шипы-на-Шелке|Леди Террин Шипы-на-Шелке]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-200,
+			"y":-1160,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"ad49794c4acbffe4",
+			"type":"text",
+			"text":"Илья",
+			"styleAttributes":{},
+			"x":400,
+			"y":-2130,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -713,6 +733,24 @@
 			"toSide":"right",
 			"color":"3",
 			"label":"Служит"
+		},
+		{
+			"id":"e2adcb9c10dc459c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6efa6a69afd5a026",
+			"fromSide":"right",
+			"toNode":"8bbc0041df6aec71",
+			"toSide":"left"
+		},
+		{
+			"id":"bf935ff54c7b4d9f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad49794c4acbffe4",
+			"fromSide":"left",
+			"toNode":"4a49503037358045",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
