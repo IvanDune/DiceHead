@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3464c3706d4ce155",
+        "id": "0ead80744b2b21c2",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ab7f8a76016511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Дистант Шпиль"
-            }
-          },
-          {
-            "id": "16a424d95f21390b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Записи - Дверь в Иномирье"
-            }
-          },
-          {
-            "id": "4c8c4437415c330b",
+            "id": "e5f14d26ff83709a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,24 +23,23 @@
             }
           },
           {
-            "id": "90592c6d298e6f69",
+            "id": "efe418b699ad9f75",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Игры/Heart/Дверь в Иномирье.canvas",
                 "viewState": {
-                  "x": -368.8146547159422,
-                  "y": 338.298109697243,
-                  "zoom": -0.9195741996802127
+                  "x": -91.3795802553085,
+                  "y": 858.5099603334269,
+                  "zoom": -0.6217542447910926
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Дверь в Иномирье"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,10 +213,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4c8c4437415c330b",
+  "active": "e5f14d26ff83709a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Игры/Heart/Дверь в Иномирье.canvas",
+    "Игры/Heart/Модули/Дверь в Иномирье.md",
+    "Проекты/Вест Марш/Без названия.md",
+    "Проекты/Вест Марш",
+    "Игры/Heart/Дополнительно/Подготовка.md",
     "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
+    "Игры/Spire/Записи/Дистант Шпиль.md",
+    "conflict-files-obsidian-git.md",
     "Проекты/Тестовые игры БП.md",
     "Игры/ЭПИК ХК.md",
     "Игры/Гоблинский пунш/Dungeon Fest 1.5.md",
@@ -257,9 +232,6 @@
     "Игры/D&D/Игра.md",
     "Excalidraw/Drawing 2026-06-10 11.48.24.excalidraw.md",
     "Игры/Spire/Модули/Лазарь.md",
-    "Игры/Heart/Модули/Дверь в Иномирье.md",
-    "Игры/Heart/Дверь в Иномирье.canvas",
-    "Игры/Spire/Записи/Дистант Шпиль.md",
     "Игры/Heart/Модули/Вечно плачущий.md",
     "Игры/Heart/Модули/Неразделенная любовь.md",
     "Игры/Spire/Модули/Детские Банды.md",
@@ -272,10 +244,7 @@
     "Игры/Spire/Записи/записи - детские банды.md",
     "Игры/Spire/Spire - Очный.canvas",
     "Игры/Spire/Модули/I. Весна сменяет лето.md",
-    "Игры/Spire/Персонажи.md",
-    "Игры/Spire/Личности/Люпен 'Снежная Кость'.md",
     "Игры/Spire/Spire - Дистант.canvas",
-    "DiceHead контет/DiceHead лор.md",
     "Игры/Spire/Персонажи игроков",
     "Без названия.base",
     "Excalidraw",
@@ -288,7 +257,6 @@
     "Игры/Spire/Oneshot",
     "Игры/Pirate Borg/Oneshot",
     "DiceHead контет/Видео/Полный метр/Снято",
-    "DiceHead контет",
     "DiceHead контет/Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Якорь.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Флаг.png",
