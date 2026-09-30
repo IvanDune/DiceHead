@@ -6,8 +6,7 @@
 Фракция:
 Маска:
 Описание:
-Дата:
-  "{date:YYYY-MM-DD HH:mm}":
+Дата: "{{date}} {{time}}"
 tags:
   - characters
   - ttrpg

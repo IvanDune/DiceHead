@@ -3,11 +3,11 @@
 Раса:
 Род занятий:
 Фракция:
-Дата: {{date:YYYY-MM-DD HH:mm}}
+Дата: "{{date}} {{time}}"
 tags:
-- characters 
-- ttrpg
-- heart
+  - characters
+  - ttrpg
+  - heart
 ---
 ## Предыстория 
 

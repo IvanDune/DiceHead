@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/НПС/Джерольд Варген.md",
+                "file": "Templates/Records_Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Джерольд Варген"
+              "title": "Records_Template"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Персонажи игроков/Луми.md",
+                "file": "DiceHead контет/Проекты/Фестивали/SnowDice III/SnowDice III.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Луми"
+              "title": "SnowDice III"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Игры/Spire/Персонажи игроков/Луми.md",
+                "file": "Templates/Records_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,35 +229,40 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6c3a91d4e5d37f61",
+  "active": "51936cea229e8625",
   "lastOpenFiles": [
+    "Templates/Location_Template.md",
+    "Templates/Delve_Heart_Template.md",
+    "Templates/Characters_Heart_Template.md",
+    "Templates/Characters_Player_Template.md",
+    "Templates/Characters_Spire_Template.md",
+    "DiceHead контет/Проекты/Фестивали/SnowDice III/SnowDice III.md",
+    "Игры/Spire/НПС/Джерольд Варген.md",
+    "DiceHead контет/Проекты/Фестивали/DiceFest IV/DiceFest IV.md",
+    "DiceHead контет/Проекты/Фестивали/SnowDice II",
+    "DiceHead контет/Проекты/Фестивали/DiceFest IV",
+    "DiceHead контет/Проекты/Фестивали/Неактуальное/Dungeon Fest.md",
+    "DiceHead контет/Проекты/Фестивали/SnowDice II/SnowDice II.md",
+    "DiceHead контет/Проекты/Фестивали/SnowDice III",
+    "DiceHead контет/Проекты/Фестивали/Неактуальное/Эпик Гобликон.md",
+    "DiceHead контет/Проекты/ТикТок.md",
+    "DiceHead контет/Проекты/Фестивали/Питер Клубы.md",
+    "DiceHead контет/Проекты/Кубосфера.md",
+    "DiceHead контет/Проекты/Фестивали/Неактуальное/Молл фест.md",
+    "DiceHead контет/Проекты/Петр.md",
+    "DiceHead контет/Проекты/Фестивали/Неактуальное",
+    "DiceHead контет/DiceFest Website/Описание сайта.md",
+    "DiceHead контет/Проекты/Фестивали",
+    "DiceHead контет/Календарь.md",
+    "DiceHead контет/Контент план.md",
+    "DiceHead контет/Boosty.md",
+    "DiceHead контет/DiceHead лор.md",
+    "DiceHead контет/Sn.md",
+    "Игры/Spire/Персонажи игроков/Луми.md",
     "Игры/Spire/НПС/Люциус Персиваль Джинас 'Дарующий-Жизнь'.md",
     "Игры/Spire/НПС/Люпен 'Снежная Кость'.md",
-    "Игры/Spire/НПС/Джерольд Варген.md",
     "Игры/Spire/НПС/Ванесса Штольц.md",
-    "Игры/Spire/НПС/Вейрон 'Белая Прядь' Фрост.md",
-    "Игры/Spire/НПС/Джаран.md",
-    "Игры/Spire/НПС/Бартоломея 'Танцующая с Куклами' Фрост.md",
-    "Игры/Spire/Персонажи игроков/Луми.md",
-    "Templates/Characters_Spire_Template.md",
-    "Templates/Characters_Player_Template.md",
     "Игры/Spire/Canvas/ВсЛ - Очный.canvas",
-    "Templates/Location_Template.md",
-    "Templates/Landmark_Heart_Template.md",
-    "Templates/Delve_Heart_Template.md",
-    "Игры/Spire/Spire.md",
-    "Игры/Spire/НПС/Крижес и Вольск.md",
-    "Игры/Pirate Borg/Oneshot/Британский гнет.md",
-    "Игры/Pirate Borg/Шляпа и Ацтеки.md",
-    "Игры/Spire/Модули/Лазарь.md",
-    "Игры/Spire/Записи/Записи - Лазарь.md",
-    "Игры/Spire/НПС/Мерилиан Изумрудный Хруст.md",
-    "Игры/Spire/Локации/Медицинский центр Зимняя Нить.md",
-    "Игры/Гоблинский пунш/1. Происшествие в Свомпсмуте.md",
-    "Игры/Гоблинский пунш/0. Игроночи НРИ.md",
-    "Игры/Spire/Записи/Дистант Шпиль.md",
-    "Мерч.md",
-    "Игры/Spire/Локации/Сталелитейный завод СФ-14.md",
     "Игры/Spire/Canvas/Сеть.canvas",
     "Игры/Symbaroum/Связи.canvas",
     "Игры/Spire/Canvas/Лазарь - Дистант.canvas",
@@ -267,13 +271,8 @@
     "Игры/Heart/НПС",
     "Игры/Heart/Canvas",
     "Играю/Hunters 5e/Персонажи",
-    "Играю/Hunters 5e",
     "Chache/images.png",
-    "Chache",
-    "Templates",
     "Игры/Heart/Canvas/Дверь в Иномирье.canvas",
-    "Игры/Spire/Персонажи игроков",
-    "Без названия.base",
     "Без названия.canvas",
     "Pasted image 20260108143508.png",
     "DiceHead контет/Видео/Съемка.canvas",

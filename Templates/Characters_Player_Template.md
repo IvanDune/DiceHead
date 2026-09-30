@@ -12,8 +12,7 @@
 Светлая сторона:
 Привязанность:
 Система:
-Дата:
-  "{ date:YYYY-MM-DD HH:mm }":
+Дата: "{{date}} {{time}}"
 tags:
   - characters
   - ttrpg

@@ -5,10 +5,10 @@
 Особенность:
 Описание:
 Действует: false
-Дата: {{date:YYYY-MM-DD HH:mm}}
+Дата: "{{date}} {{time}}"
 tags:
-- location 
-- ttrpg
+  - location
+  - ttrpg
 ---
 ## Предыстория 
 
