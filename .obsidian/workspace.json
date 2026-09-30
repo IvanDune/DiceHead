@@ -4,73 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3464c3706d4ce155",
+        "id": "faaeb8ab2b7fc068",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ab7f8a76016511",
+            "id": "51936cea229e8625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
+                "file": "Игры/Spire/НПС/Джерольд Варген.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Дистант Шпиль"
-            }
-          },
-          {
-            "id": "16a424d95f21390b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Записи - Дверь в Иномирье"
-            }
-          },
-          {
-            "id": "4c8c4437415c330b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игры/Heart/Модули/Дверь в Иномирье.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Дверь в Иномирье"
-            }
-          },
-          {
-            "id": "90592c6d298e6f69",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игры/Heart/Дверь в Иномирье.canvas",
-                "viewState": {
-                  "x": -368.8146547159422,
-                  "y": 338.298109697243,
-                  "zoom": -0.9195741996802127
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Дверь в Иномирье"
+              "icon": "lucide-file",
+              "title": "Джерольд Варген"
+            }
+          },
+          {
+            "id": "6c3a91d4e5d37f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/Spire/Персонажи игроков/Луми.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Луми"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.59765625
   },
   "right": {
     "id": "f3baddd0f91d3dd4",
@@ -145,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Игры/Spire/Персонажи игроков/Луми.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Игры/Spire/Модули/Весна сменяет лето/Записи/Статья о Бартоломеи.md",
+                "file": "Игры/Spire/Локации/Медицинский центр Зимняя Нить.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Статья о Бартоломеи"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -192,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DiceHead контет/Видео/Видео.md",
+                "file": "Игры/Spire/Локации/Медицинский центр Зимняя Нить.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Видео"
+              "title": "Структура"
             }
           },
           {
@@ -221,8 +208,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,7 +217,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -240,55 +225,57 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "4c8c4437415c330b",
+  "active": "6c3a91d4e5d37f61",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
-    "Проекты/Тестовые игры БП.md",
-    "Игры/ЭПИК ХК.md",
-    "Игры/Гоблинский пунш/Dungeon Fest 1.5.md",
-    "Игры/Spire/Лазарь.md",
-    "Игры/Spire/Записи/Очные записи.md",
-    "Игры/Spire/Записи.md",
-    "Игры/D&D/Игра.md",
-    "Excalidraw/Drawing 2026-06-10 11.48.24.excalidraw.md",
+    "Игры/Spire/НПС/Люциус Персиваль Джинас 'Дарующий-Жизнь'.md",
+    "Игры/Spire/НПС/Люпен 'Снежная Кость'.md",
+    "Игры/Spire/НПС/Джерольд Варген.md",
+    "Игры/Spire/НПС/Ванесса Штольц.md",
+    "Игры/Spire/НПС/Вейрон 'Белая Прядь' Фрост.md",
+    "Игры/Spire/НПС/Джаран.md",
+    "Игры/Spire/НПС/Бартоломея 'Танцующая с Куклами' Фрост.md",
+    "Игры/Spire/Персонажи игроков/Луми.md",
+    "Templates/Characters_Spire_Template.md",
+    "Templates/Characters_Player_Template.md",
+    "Игры/Spire/Canvas/ВсЛ - Очный.canvas",
+    "Templates/Location_Template.md",
+    "Templates/Landmark_Heart_Template.md",
+    "Templates/Delve_Heart_Template.md",
+    "Игры/Spire/Spire.md",
+    "Игры/Spire/НПС/Крижес и Вольск.md",
+    "Игры/Pirate Borg/Oneshot/Британский гнет.md",
+    "Игры/Pirate Borg/Шляпа и Ацтеки.md",
     "Игры/Spire/Модули/Лазарь.md",
-    "Игры/Heart/Модули/Дверь в Иномирье.md",
-    "Игры/Heart/Дверь в Иномирье.canvas",
-    "Игры/Spire/Записи/Дистант Шпиль.md",
-    "Игры/Heart/Модули/Вечно плачущий.md",
-    "Игры/Heart/Модули/Неразделенная любовь.md",
-    "Игры/Spire/Модули/Детские Банды.md",
     "Игры/Spire/Записи/Записи - Лазарь.md",
-    "Игры/Spire/Сеть.canvas",
-    "Игры/Spire/Записи/Записки.md",
-    "DiceHead контет/Видео/Кольцо всевластья.md",
-    "Игры/WFRP/Oneshot/Вторая кожа.md",
-    "Игры/Spire/Записи/Очный Шпиль.md",
-    "Игры/Spire/Записи/записи - детские банды.md",
-    "Игры/Spire/Spire - Очный.canvas",
-    "Игры/Spire/Модули/I. Весна сменяет лето.md",
-    "Игры/Spire/Персонажи.md",
-    "Игры/Spire/Личности/Люпен 'Снежная Кость'.md",
-    "Игры/Spire/Spire - Дистант.canvas",
-    "DiceHead контет/DiceHead лор.md",
+    "Игры/Spire/НПС/Мерилиан Изумрудный Хруст.md",
+    "Игры/Spire/Локации/Медицинский центр Зимняя Нить.md",
+    "Игры/Гоблинский пунш/1. Происшествие в Свомпсмуте.md",
+    "Игры/Гоблинский пунш/0. Игроночи НРИ.md",
+    "Игры/Spire/Записи/Дистант Шпиль.md",
+    "Мерч.md",
+    "Игры/Spire/Локации/Сталелитейный завод СФ-14.md",
+    "Игры/Spire/Canvas/Сеть.canvas",
+    "Игры/Symbaroum/Связи.canvas",
+    "Игры/Spire/Canvas/Лазарь - Дистант.canvas",
+    "Игры/Spire/Canvas",
+    "Игры/Spire/Локации",
+    "Игры/Heart/НПС",
+    "Игры/Heart/Canvas",
+    "Играю/Hunters 5e/Персонажи",
+    "Играю/Hunters 5e",
+    "Chache/images.png",
+    "Chache",
+    "Templates",
+    "Игры/Heart/Canvas/Дверь в Иномирье.canvas",
     "Игры/Spire/Персонажи игроков",
     "Без названия.base",
-    "Excalidraw",
-    "Игры/Symbaroum/Связи.canvas",
     "Без названия.canvas",
-    "DiceHead контет/DiceFest Website",
-    "Игры/D&D/Проклятье Страда",
     "Pasted image 20260108143508.png",
-    "DiceHead контет/Видео/ИИ",
-    "Игры/Spire/Oneshot",
-    "Игры/Pirate Borg/Oneshot",
-    "DiceHead контет/Видео/Полный метр/Снято",
-    "DiceHead контет",
     "DiceHead контет/Видео/Съемка.canvas",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Якорь.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Флаг.png",
@@ -298,7 +285,6 @@
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Мост.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Звезда.png",
     "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Дом.png",
-    "Игры/СЪЕМКА/Кампания/Вспомогательное/Иконки/Город.png",
     "Игры/Heart/Дополнительно/Карта.canvas",
     "Игры/Heart/Карта.canvas",
     "Игры/Spire/Модули/Сеть.canvas"

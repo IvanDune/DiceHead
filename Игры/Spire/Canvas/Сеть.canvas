@@ -18,9 +18,9 @@
 			"color":"3"
 		},
 		{"id":"1d98e9d6796b5a46","type":"text","text":"## Проект \"Лазарь\"\nУлучшение положения населения нижнего шпиля. Увеличение рабочей силы и притока свежей еды.","x":-1780,"y":1095,"width":397,"height":200,"color":"6"},
-		{"id":"d9779fb6a088a1ce","type":"file","file":"Игры/Spire/Личности/Джаран.md","x":-2160,"y":1505,"width":400,"height":87,"color":"2"},
-		{"id":"af5d5634110ae1c9","type":"file","file":"Игры/Spire/Личности/Люпен 'Снежная Кость'.md","x":-2660,"y":1095,"width":400,"height":200,"color":"2"},
-		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/Личности/Ванесса Штольц.md","x":-2660,"y":1416,"width":400,"height":176,"color":"2"},
+		{"id":"d9779fb6a088a1ce","type":"file","file":"Игры/Spire/НПС/Джаран.md","x":-2160,"y":1505,"width":400,"height":87,"color":"2"},
+		{"id":"af5d5634110ae1c9","type":"file","file":"Игры/Spire/НПС/Люпен 'Снежная Кость'.md","x":-2660,"y":1095,"width":400,"height":200,"color":"2"},
+		{"id":"d6996254c8c7aa7e","type":"file","file":"Игры/Spire/НПС/Ванесса Штольц.md","x":-2660,"y":1416,"width":400,"height":176,"color":"2"},
 		{
 			"id":"a2456feabb443b98",
 			"type":"text",
@@ -43,7 +43,7 @@
 		},
 		{"id":"117e1222bf1bcf4a","type":"text","text":"## Синие плуты","x":-770,"y":1315,"width":250,"height":50,"color":"2"},
 		{"id":"90062283dd772bad","type":"text","text":"## Завод SF-014","x":-380,"y":1305,"width":250,"height":60,"color":"6"},
-		{"id":"cf0ce6d10926b9ca","type":"file","file":"Игры/Spire/Личности/Вейрон 'Белая Прядь' Фрост.md","x":-69,"y":947,"width":400,"height":140,"color":"2"},
+		{"id":"cf0ce6d10926b9ca","type":"file","file":"Игры/Spire/НПС/Вейрон 'Белая Прядь' Фрост.md","x":-69,"y":947,"width":400,"height":140,"color":"2"},
 		{"id":"5039f83452c632b4","type":"text","text":"**МАДЖЕ ФАМЕ**","x":-1280,"y":1532,"width":250,"height":60,"color":"1"},
 		{
 			"id":"4ad49d900dde15cc",
@@ -58,9 +58,9 @@
 		},
 		{"id":"061b841959a65f8a","type":"text","text":"### Криут (Эрика)","x":-770,"y":1515,"width":250,"height":60,"color":"3"},
 		{"id":"b98b3e64cc60d9be","type":"text","text":"### Вархис \"Синий графит\" (Рави)","x":1601,"y":1480,"width":325,"height":72,"color":"3"},
-		{"id":"6ea5f5e51470b3e5","type":"file","file":"Игры/Spire/Личности/Феликс Браунмист.md","x":840,"y":1480,"width":400,"height":95,"color":"2"},
+		{"id":"6ea5f5e51470b3e5","type":"file","file":"Игры/Spire/НПС/Феликс Браунмист.md","x":840,"y":1480,"width":400,"height":95,"color":"2"},
 		{"id":"8417dd80dc42f486","type":"text","text":"## Ресторан Миртвуд","x":331,"y":1305,"width":300,"height":60,"color":"6"},
-		{"id":"d75c5522babd1fc9","type":"file","file":"Игры/Spire/Личности/Джерольд Варген.md","x":-69,"y":1480,"width":400,"height":95,"color":"2"},
+		{"id":"d75c5522babd1fc9","type":"file","file":"Игры/Spire/НПС/Джерольд Варген.md","x":-69,"y":1480,"width":400,"height":95,"color":"2"},
 		{"id":"5abcd1266de9c421","type":"text","text":"### Гралай Создатель цепей (НИК)","x":731,"y":400,"width":425,"height":54,"color":"3"},
 		{"id":"b4515eb9d74bb594","type":"text","text":"## Закрытая вечеринка","x":780,"y":500,"width":326,"height":57,"color":"6"},
 		{"id":"e70de40f2fb404d5","type":"text","text":"### Корти Уголек (НИК)","x":600,"y":840,"width":300,"height":50,"color":"3"},
@@ -90,7 +90,7 @@
 		{"id":"d8b6eafa7f0541f8","type":"text","text":"## Пансионат Пепел Феникса","x":840,"y":1105,"width":400,"height":80,"color":"6"},
 		{"id":"40831813cdecb05d","type":"text","text":"### Релфир \"Грач\" Фавидок (Антон)","x":-800,"y":1147,"width":310,"height":75,"color":"3"},
 		{"id":"3f0b9049d7529b5e","type":"text","text":"## Гвинн-Энфорр","x":1753,"y":480,"width":250,"height":60,"color":"1"},
-		{"id":"cc329af32d64bad1","type":"file","file":"Игры/Spire/Личности/Бартоломея 'Танцующая с Куклами' Фрост.md","x":1145,"y":590,"width":456,"height":200,"color":"2"},
+		{"id":"cc329af32d64bad1","type":"file","file":"Игры/Spire/НПС/Бартоломея 'Танцующая с Куклами' Фрост.md","x":1145,"y":590,"width":456,"height":200,"color":"2"},
 		{
 			"id":"c8d933cb6878e991",
 			"type":"text",
