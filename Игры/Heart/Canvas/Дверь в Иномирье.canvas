@@ -43,26 +43,6 @@
 			"color":"6"
 		},
 		{
-			"id":"82d6bcc6a9711cd3",
-			"type":"text",
-			"text":"Потерян из-за расстройства Иномирья и депрессии.  Крепления ослабли, металл расплавился. Кристалл выпал на нижние уровни города ",
-			"styleAttributes":{},
-			"x":-560,
-			"y":180,
-			"width":320,
-			"height":180
-		},
-		{
-			"id":"57441c864cb2efed",
-			"type":"text",
-			"text":"Потерян из-за расстройства Иномирья и депрессии.  Крепления ослабли, металл расплавился. Кристалл выпал на нижние уровни города ",
-			"styleAttributes":{},
-			"x":-240,
-			"y":180,
-			"width":320,
-			"height":180
-		},
-		{
 			"id":"cf8732683bc124eb",
 			"type":"text",
 			"text":"Кристалл №3",
@@ -87,22 +67,24 @@
 		{
 			"id":"e0a832b9c66cb96b",
 			"type":"text",
-			"text":"Потерян из-за расстройства Иномирья и депрессии.  Крепления ослабли, металл расплавился. Кристалл выпал на нижние уровни города ",
-			"styleAttributes":{},
+			"text":"Спрятан в подземельях и катакомбах Иномирья. Все покрыто ловушками, но сам город, чувствуя, что кто-то пытается выкрасть кристалл будет сопротивляться",
+			"styleAttributes":{"textAlign":"center"},
 			"x":80,
 			"y":180,
 			"width":320,
-			"height":180
+			"height":180,
+			"color":"5"
 		},
 		{
 			"id":"2453552ec629a8f0",
 			"type":"text",
-			"text":"Потерян из-за расстройства Иномирья и депрессии.  Крепления ослабли, металл расплавился. Кристалл выпал на нижние уровни города ",
-			"styleAttributes":{},
+			"text":"Был выкраден Джентельменами достаточно давно, готовилась ядерная вечиринка. Но начали происходит ситуации, из-за чего их темные собратья пробудились. ",
+			"styleAttributes":{"textAlign":"center"},
 			"x":400,
 			"y":180,
 			"width":320,
-			"height":180
+			"height":180,
+			"color":"5"
 		},
 		{
 			"id":"91ba600242db2215",
@@ -138,25 +120,257 @@
 			"color":"3"
 		},
 		{
-			"id":"7e73de0391b57399",
+			"id":"b52231895910430e",
 			"type":"text",
-			"text":"Семь дьяволов",
+			"text":"**Где**: Вермиссиан в Сердце\n\n**Проблема**: привлекает тварей Сердца, других искателей и кое-кого еще",
+			"styleAttributes":{},
+			"x":-240,
+			"y":770,
+			"width":320,
+			"height":140,
+			"color":"1"
+		},
+		{
+			"id":"74c98e2376251f2f",
+			"type":"text",
+			"text":"**Зачем**: случайно\n\n**Как**: бросил в тоннели Вермиссиана\n\n**Было**: в гневе бросил в дверь. Сейчас несколько Тикеров пытаются достать кристалл из поезда, но ничего не выходит",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-850,
-			"y":700,
+			"x":-240,
+			"y":480,
+			"width":320,
+			"height":220,
+			"color":"2"
+		},
+		{
+			"id":"57441c864cb2efed",
+			"type":"text",
+			"text":"Сохранен в целости. На самом гнезде его нет, от места тянутся провода и трубы через канализацию и левитирующие  островки земли к Картографам.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-560,
+			"y":180,
+			"width":320,
+			"height":180,
+			"color":"5"
+		},
+		{
+			"id":"82d6bcc6a9711cd3",
+			"type":"text",
+			"text":"Потерян из-за расстройства Иномирья. Ссора с Клавдией заставило метнуть кристалл прямо в нее, но рядом появилась дверь, и энергоблок провалился туда. И Клавдия, и Город знают, где он.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-240,
+			"y":180,
+			"width":320,
+			"height":180,
+			"color":"5"
+		},
+		{
+			"id":"2034caf0902cfa93",
+			"type":"text",
+			"text":"Ищейки",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1340,
+			"y":1160,
 			"width":260,
 			"height":60,
-			"color":"2"
+			"color":"1"
+		},
+		{
+			"id":"cf67b1cf097378ea",
+			"type":"text",
+			"text":"КАРТОГРАФЫ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1340,
+			"y":1340,
+			"width":260,
+			"height":60,
+			"color":"6"
 		},
 		{
 			"id":"f92aba73190b4349",
 			"type":"text",
 			"text":"**Зачем**: для личных целей\n\n**Как**: нашел на улице\n\n**Было**: использована для сбора информации о лечении дочери",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-880,
-			"y":440,
+			"x":-1370,
+			"y":480,
 			"width":320,
-			"height":180
+			"height":180,
+			"color":"2"
+		},
+		{
+			"id":"7e73de0391b57399",
+			"type":"text",
+			"text":"Семь дьяволов",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1340,
+			"y":740,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"db675348d3de2408",
+			"type":"text",
+			"text":"**Сейчас**: Ищейки вымагают шантажом у Семь Дьяволов кристалл. Иначе они расскажут об экспериментах, болезни дочери и артефактах из енго библиотеки",
+			"styleAttributes":{},
+			"x":-1400,
+			"y":920,
+			"width":380,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"073f260d70478dce",
+			"type":"text",
+			"text":"**Зачем**: чтобы сохранить энергию в городе и самостоятельно контролировать ее.\n\n**Как**: Были выкрадены наработки Тобиаса из его лавки, после того, как он исчез\n\n**Было**: Картографы с Ищейками перенесли кристалл в колледж первых.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-720,
+			"y":520,
+			"width":377,
+			"height":320,
+			"color":"2"
+		},
+		{
+			"id":"8cd4cc8119242629",
+			"type":"text",
+			"text":"Выкрали технологии и чертижи батарей",
+			"styleAttributes":{},
+			"x":-750,
+			"y":1170,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"78cdb450223ab9f0",
+			"type":"text",
+			"text":"Перетащили и настроили связь",
+			"styleAttributes":{},
+			"x":-880,
+			"y":990,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"eb6aa450dddc099e",
+			"type":"text",
+			"text":"Прознали о местонахождении и также как герои, хотят достать раньше всех кристалл.",
+			"styleAttributes":{},
+			"x":-250,
+			"y":980,
+			"width":340,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"5bf20c83b1521141",
+			"type":"text",
+			"text":"**Зачем**: для жизнеобеспечения главного Вермиссианского мудреца и по заказу Консульства.\n\n**Как**: грубая физическая сила\n\n**Было**: в этот момент рыцари Вермиссана пытаются выкрасть один из кристаллов.",
+			"styleAttributes":{},
+			"x":160,
+			"y":540,
+			"width":360,
+			"height":240,
+			"color":"2"
+		},
+		{
+			"id":"48212e9db06b2c37",
+			"type":"text",
+			"text":"Вермиссианский Консилиум",
+			"styleAttributes":{"textAlign":"center"},
+			"x":430,
+			"y":1100,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"19c20c4adec17551",
+			"type":"text",
+			"text":"Тобиас",
+			"styleAttributes":{"textAlign":"center"},
+			"x":920,
+			"y":1100,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"04a1d352e46b224f",
+			"type":"text",
+			"text":"Поднимают революцию, саботируют доверие к Консилиуму и Картографам в целом, хотя последние тут не причем.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":140,
+			"y":1160,
+			"width":260,
+			"height":170,
+			"color":"1"
+		},
+		{
+			"id":"89d4b0bc7c692778",
+			"type":"text",
+			"text":"КОНСУЛЬСТВО ШПИЛЯ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":430,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"1659be7e0d6e10b4",
+			"type":"text",
+			"text":"Лилит, Адам и Ева",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-320,
+			"y":1215,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"fbfb1db68455bf79",
+			"type":"text",
+			"text":"МИНИСТЕРСТВО",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-270,
+			"y":1400,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"eb4a4b03c8076576",
+			"type":"text",
+			"text":"Джентельмены",
+			"styleAttributes":{"textAlign":"center"},
+			"x":920,
+			"y":960,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"687a5cf05625f322",
+			"type":"text",
+			"text":"Зачем: сделать незабываемое шоу с острым перцем.\n\nКак: давно и очень аккуратно\n\nБыло: внутри Шпиля, готовились к представлению",
+			"styleAttributes":{"textAlign":"center"},
+			"x":660,
+			"y":490,
+			"width":390,
+			"height":210,
+			"color":"2"
+		},
+		{
+			"id":"ca0d575852679419",
+			"type":"text",
+			"text":"[[Дверь в Иномирье#Условия Джентельменов|УСЛОВИЯ]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":790,
+			"y":840,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -254,16 +468,339 @@
 			"fromNode":"7e73de0391b57399",
 			"fromSide":"top",
 			"toNode":"f92aba73190b4349",
-			"toSide":"bottom"
+			"toSide":"bottom",
+			"color":"2"
 		},
 		{
 			"id":"2e85cc4a6a157b64",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f92aba73190b4349",
 			"fromSide":"top",
 			"toNode":"3e9989eed974d6c5",
-			"toSide":"bottom"
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"624e5b0f9290731b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cf67b1cf097378ea",
+			"fromSide":"top",
+			"toNode":"2034caf0902cfa93",
+			"toSide":"bottom",
+			"color":"6",
+			"label":"Наняли"
+		},
+		{
+			"id":"72a9cf062ceeaeb0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"db675348d3de2408",
+			"fromSide":"top",
+			"toNode":"7e73de0391b57399",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"60103bb4972b92eb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2034caf0902cfa93",
+			"fromSide":"top",
+			"toNode":"db675348d3de2408",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"5d998ab13f33aff3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"eb6aa450dddc099e",
+			"fromSide":"top",
+			"toNode":"b52231895910430e",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"077c64b7a6ad8b09",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1659be7e0d6e10b4",
+			"fromSide":"top",
+			"toNode":"eb6aa450dddc099e",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"864b70f2b4b0002c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b52231895910430e",
+			"fromSide":"top",
+			"toNode":"74c98e2376251f2f",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"dfbdaab315848159",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"74c98e2376251f2f",
+			"fromSide":"top",
+			"toNode":"82d6bcc6a9711cd3",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"d6c3e529a11438a5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fbfb1db68455bf79",
+			"fromSide":"top",
+			"toNode":"1659be7e0d6e10b4",
+			"toSide":"bottom",
+			"color":"6",
+			"label":"Наняли"
+		},
+		{
+			"id":"51e356edf03d866d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82d6bcc6a9711cd3",
+			"fromSide":"top",
+			"toNode":"cf8732683bc124eb",
+			"toSide":"bottom",
+			"color":"5"
+		},
+		{
+			"id":"c4ef9b9e25ea9760",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"073f260d70478dce",
+			"fromSide":"top",
+			"toNode":"57441c864cb2efed",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"07c278cf57d16279",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2034caf0902cfa93",
+			"fromSide":"right",
+			"toNode":"78cdb450223ab9f0",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"88558ede75148f8f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cf67b1cf097378ea",
+			"fromSide":"right",
+			"toNode":"78cdb450223ab9f0",
+			"toSide":"left",
+			"color":"6"
+		},
+		{
+			"id":"c677c7805be1f93c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"78cdb450223ab9f0",
+			"fromSide":"top",
+			"toNode":"073f260d70478dce",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"4155221397c2cf16",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cf67b1cf097378ea",
+			"fromSide":"right",
+			"toNode":"8cd4cc8119242629",
+			"toSide":"left",
+			"color":"6"
+		},
+		{
+			"id":"841de249f0ebc365",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1659be7e0d6e10b4",
+			"fromSide":"left",
+			"toNode":"8cd4cc8119242629",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"d8b5b44f46143328",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8cd4cc8119242629",
+			"fromSide":"top",
+			"toNode":"073f260d70478dce",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"40d28b2704587c74",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57441c864cb2efed",
+			"fromSide":"top",
+			"toNode":"1a991a5350d74187",
+			"toSide":"bottom",
+			"color":"5"
+		},
+		{
+			"id":"d50b58a77e2a51d5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e0a832b9c66cb96b",
+			"fromSide":"top",
+			"toNode":"91ba600242db2215",
+			"toSide":"bottom",
+			"color":"5"
+		},
+		{
+			"id":"e39d920ee2516f88",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"5bf20c83b1521141",
+			"fromSide":"top",
+			"toNode":"e0a832b9c66cb96b",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"33841b180424e36a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"48212e9db06b2c37",
+			"fromSide":"top",
+			"toNode":"5bf20c83b1521141",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"19c8e1412ea634f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"89d4b0bc7c692778",
+			"fromSide":"top",
+			"toNode":"48212e9db06b2c37",
+			"toSide":"bottom",
+			"color":"6",
+			"label":"Наняли"
+		},
+		{
+			"id":"b93bf0a14996c033",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"48212e9db06b2c37",
+			"fromSide":"right",
+			"toNode":"19c20c4adec17551",
+			"toSide":"left",
+			"color":"2",
+			"label":"Выкрали"
+		},
+		{
+			"id":"2c8b607ac5ffcc7c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fbfb1db68455bf79",
+			"fromSide":"right",
+			"toNode":"04a1d352e46b224f",
+			"toSide":"left",
+			"color":"6"
+		},
+		{
+			"id":"1c44b98cb0ce4104",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"04a1d352e46b224f",
+			"fromSide":"top",
+			"toNode":"5bf20c83b1521141",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"eea5e3866a2da7e8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1659be7e0d6e10b4",
+			"fromSide":"right",
+			"toNode":"04a1d352e46b224f",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"36f3a8d3ad6e88f3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2453552ec629a8f0",
+			"fromSide":"top",
+			"toNode":"0895b881cab33cef",
+			"toSide":"bottom",
+			"color":"5"
+		},
+		{
+			"id":"badacbb00e07e346",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"eb4a4b03c8076576",
+			"fromSide":"left",
+			"toNode":"8cd4cc8119242629",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"a5baff0cc909a640",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"687a5cf05625f322",
+			"fromSide":"top",
+			"toNode":"2453552ec629a8f0",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"a16800a6f87720d5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ca0d575852679419",
+			"fromSide":"top",
+			"toNode":"687a5cf05625f322",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"490bb1c7684e5ce1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"eb4a4b03c8076576",
+			"fromSide":"top",
+			"toNode":"ca0d575852679419",
+			"toSide":"bottom",
+			"color":"1"
 		}
 	],
 	"metadata":{
