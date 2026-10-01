@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Records_Template.md",
+                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Records_Template"
+              "title": "Дистант Шпиль"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiceHead контет/Проекты/Фестивали/SnowDice III/SnowDice III.md",
+                "file": "Игры/Spire/НПС/0. Появлялись в сюжете.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SnowDice III"
+              "title": "0. Появлялись в сюжете"
             }
           }
         ]
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Records_Template.md",
+                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,37 +231,39 @@
   },
   "active": "51936cea229e8625",
   "lastOpenFiles": [
-    "Templates/Location_Template.md",
-    "Templates/Delve_Heart_Template.md",
-    "Templates/Characters_Heart_Template.md",
-    "Templates/Characters_Player_Template.md",
-    "Templates/Characters_Spire_Template.md",
+    "Templates/Records_Template.md",
+    "Игры/Spire/Записи/Дистант Шпиль.md",
+    "Игры/Spire/Лазарь.md",
+    "Игры/Spire/НПС/0. Появлялись в сюжете.md",
+    "Игры/Spire/Записи.md",
+    "ToDo.md",
+    "Игры/Spire/НПС/Бартоломея 'Танцующая с Куклами' Фрост.md",
     "DiceHead контет/Проекты/Фестивали/SnowDice III/SnowDice III.md",
+    "Игры/WFRP/Модули/Проклятый том.md",
+    "Игры/Spire/Записи/Записи - Отличный пример.md",
+    "Игры/Spire/НПС/Ячейка №9.md",
+    "Игры/Spire/НПС/Феликс Браунмист.md",
+    "Игры/Spire/НПС/Мерилиан Изумрудный Хруст.md",
+    "Игры/Spire/НПС/Уф'трош Танцующий на углях.md",
+    "Игры/Spire/НПС/Люциус Персиваль Джинас 'Дарующий-Жизнь'.md",
+    "Игры/Spire/НПС/М Судопроизводитель.md",
     "Игры/Spire/НПС/Джерольд Варген.md",
-    "DiceHead контет/Проекты/Фестивали/DiceFest IV/DiceFest IV.md",
+    "Игры/Spire/НПС/Крижес и Вольск.md",
+    "Игры/Spire/НПС/Вейрон 'Белая Прядь' Фрост.md",
+    "Игры/Spire/НПС/Лазарь/Люпен 'Снежная Кость'.md",
+    "Игры/Spire/НПС/Лазарь/Джаран.md",
+    "Игры/Spire/НПС/Лазарь/Ванесса Штольц.md",
+    "Игры/Spire/Записи/Записи - Лазарь.md",
+    "Игры/Spire/НПС/Лазарь",
+    "Игры/Spire/НПС/Детские Банды",
+    "Играю/WFRP у Ника.md",
+    "Играю/Barotrauma.md",
+    "Доп. инфа/Определения.md",
     "DiceHead контет/Проекты/Фестивали/SnowDice II",
     "DiceHead контет/Проекты/Фестивали/DiceFest IV",
-    "DiceHead контет/Проекты/Фестивали/Неактуальное/Dungeon Fest.md",
-    "DiceHead контет/Проекты/Фестивали/SnowDice II/SnowDice II.md",
     "DiceHead контет/Проекты/Фестивали/SnowDice III",
-    "DiceHead контет/Проекты/Фестивали/Неактуальное/Эпик Гобликон.md",
-    "DiceHead контет/Проекты/ТикТок.md",
-    "DiceHead контет/Проекты/Фестивали/Питер Клубы.md",
-    "DiceHead контет/Проекты/Кубосфера.md",
-    "DiceHead контет/Проекты/Фестивали/Неактуальное/Молл фест.md",
-    "DiceHead контет/Проекты/Петр.md",
     "DiceHead контет/Проекты/Фестивали/Неактуальное",
-    "DiceHead контет/DiceFest Website/Описание сайта.md",
     "DiceHead контет/Проекты/Фестивали",
-    "DiceHead контет/Календарь.md",
-    "DiceHead контет/Контент план.md",
-    "DiceHead контет/Boosty.md",
-    "DiceHead контет/DiceHead лор.md",
-    "DiceHead контет/Sn.md",
-    "Игры/Spire/Персонажи игроков/Луми.md",
-    "Игры/Spire/НПС/Люциус Персиваль Джинас 'Дарующий-Жизнь'.md",
-    "Игры/Spire/НПС/Люпен 'Снежная Кость'.md",
-    "Игры/Spire/НПС/Ванесса Штольц.md",
     "Игры/Spire/Canvas/ВсЛ - Очный.canvas",
     "Игры/Spire/Canvas/Сеть.canvas",
     "Игры/Symbaroum/Связи.canvas",
@@ -269,8 +271,6 @@
     "Игры/Spire/Canvas",
     "Игры/Spire/Локации",
     "Игры/Heart/НПС",
-    "Игры/Heart/Canvas",
-    "Играю/Hunters 5e/Персонажи",
     "Chache/images.png",
     "Игры/Heart/Canvas/Дверь в Иномирье.canvas",
     "Без названия.canvas",
