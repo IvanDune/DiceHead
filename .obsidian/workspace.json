@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
+                "file": "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,34 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Дистант Шпиль"
+              "title": "Записи - Дверь в Иномирье"
             }
           },
           {
             "id": "6c3a91d4e5d37f61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Игры/Spire/НПС/0. Появлялись в сюжете.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                "file": "Игры/Heart/Canvas/Дверь в Иномирье.canvas",
+                "viewState": {
+                  "x": -280.03771483155856,
+                  "y": 317.6981288412436,
+                  "zoom": -0.18335055893974583
                 }
               },
-              "icon": "lucide-file",
-              "title": "0. Появлялись в сюжете"
+              "icon": "lucide-layout-dashboard",
+              "title": "Дверь в Иномирье"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Игры/Spire/Записи/Дистант Шпиль.md",
+                "file": "Игры/Heart/Canvas/Дверь в Иномирье.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,12 +223,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "51936cea229e8625",
+  "active": "6c3a91d4e5d37f61",
   "lastOpenFiles": [
-    "Templates/Records_Template.md",
-    "Игры/Spire/Записи/Дистант Шпиль.md",
-    "Игры/Spire/Лазарь.md",
+    "Игры/Heart/Модули/Дверь в Иномирье.md",
     "Игры/Spire/НПС/0. Появлялись в сюжете.md",
+    "Игры/Heart/Записи/Записи - Дверь в Иномирье.md",
+    "Игры/Spire/Записи/Дистант Шпиль.md",
+    "Templates/Records_Template.md",
+    "Игры/Spire/Лазарь.md",
     "Игры/Spire/Записи.md",
     "ToDo.md",
     "Игры/Spire/НПС/Бартоломея 'Танцующая с Куклами' Фрост.md",
@@ -257,8 +253,6 @@
     "Игры/Spire/НПС/Лазарь",
     "Игры/Spire/НПС/Детские Банды",
     "Играю/WFRP у Ника.md",
-    "Играю/Barotrauma.md",
-    "Доп. инфа/Определения.md",
     "DiceHead контет/Проекты/Фестивали/SnowDice II",
     "DiceHead контет/Проекты/Фестивали/DiceFest IV",
     "DiceHead контет/Проекты/Фестивали/SnowDice III",
